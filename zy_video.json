@@ -5,7 +5,7 @@
   "sites": [
     {
       "key": "豆瓣",
-      "name": "0509修复部分4K线路，长按主页刷新接口",
+      "name": "更换接口服务器，长按主页刷新接口",
       "type": 3,
       "api": "csp_Douban",
       "searchable": 0
@@ -47,7 +47,6 @@
       "name": "柠檬┃影视",
       "type": 3,
       "api": "csp_Nmvod",
-      "jar": "./moyu.php",
       "playerType": 2,
       "jar": "https://ncstatic.clewm.net/rsrc/2025/0915/15/e210975c2c794cbc8bb1839b54ac213e.png;md5;939FFBC2941A28CA533F2653FA4B449E",
       "ext": "7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1"
@@ -106,15 +105,6 @@
       "jar": "./lib/ouge.jpg",
       "ext": "https://m.hkybqufgh.com,https://m.sizhengxt.com,https://m.9zhoukj.com,https://m.sizhengxt.com,https://m.jiabaide.cn"
     },
-//    {
-//	  "key":"Dygang",
-//	  "name":"电影港|磁力",
-//	  "jar":"https://gitee.com/zengjing0620/tvbox/raw/jar/lh260109.jar",
-//	  "type":3,
-//	  "searchable":1,
-//	  "changeable":1,
-//	  "api":"csp_Dygang"
-//	},
     {
       "key":"xiaozhen",
       "name":"小镇┃影视",
