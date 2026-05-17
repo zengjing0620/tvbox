@@ -1,5 +1,5 @@
 {
-  "spider": "./lib/xs.png",
+  "spider": "https://raw.githubusercontent.com/zengjing0620/tvbox/refs/heads/main/lib/xs.png",
   "wallpaper": "https://api.likepoems.com/img/bing",
   "warningText": "温馨提示:\n盒子搬运工接口长期更新维护，仅用于自用研究测试 \n切勿传播、贩卖！",
   "sites": [
