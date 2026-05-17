@@ -1,0 +1,16 @@
+{
+  "urls": [
+    {
+      "url": "https://gitee.com/zengjing0620/tvbox/raw/ys/cr_zxl.json",
+      "name": "主线路1"
+    },
+    {
+      "url": "https://hub.gitmirror.com/https://raw.githubusercontent.com/yigedashu/xwck/refs/heads/main/shiba.json",
+      "name": "备用1"
+    },
+    {
+      "url": "https://gh-proxy.com/https://raw.githubusercontent.com/yigedashu/xwck/refs/heads/main/shiba.json",
+      "name": "备用2"
+    }
+  ]
+}
