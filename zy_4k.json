@@ -38,7 +38,7 @@
       "key": "咕噜99",
       "name": "咕噜丨4K",
       "type": 3,
-      "jar": "./lib/spider.jar",
+      //"jar": "./lib/spider.jar",
       "api": "csp_App99",
       "ext": {
         "host": "http://103.45.132.22:19987/app/bn",
