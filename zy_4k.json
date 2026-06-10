@@ -6,7 +6,7 @@
   "sites": [
     {
       "key": "豆瓣",
-      "name": "4K线路处于测试中",
+      "name": "4K线路测试中",
       "type": 3,
       "api": "csp_Douban",
       "searchable": 0
@@ -46,20 +46,107 @@
       "api": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/hy.js"
     },
     {
-      "key": "咕噜99",
-      "name": "咕噜丨4K",
+      "key": "极影",
+      "name": "极影｜4K测试",
+      "type": 3,
+      "api": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/jy.js",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "http://cmsyun2.qijiyun.vip/api.php/app/"
+    },
+    {
+      "key": "无极99",
+      "name": "无极丨4K",
       "type": 3,
       "api": "csp_App99",
       "jar": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/IY/main/spider.jar",
       "ext": {
-        "host": "http://103.45.132.22:19987/app/bn",
+        "host": "http://111.170.140.70:19987/app/bn",
         "LoginPath": "/app/log",
-        "appkey": "d1f0c269eab74d93821fffc9befdbbba",
-        "versionName": "1.9.5",
-        "name": "咕噜咕噜",
-        "package": "com.bd.tool.gulu",
+        "version": "",
+        "appkey": "c403317c2a2946659b0bcbabdd5de43a",
+        "versionName": "1.0.1",
+        "name": "无极影视",
+        "package": "com.wujiys.app",
         "buildNumber": "2001",
-        "buildSignature": "B07C8F6DBEBD3ABEE6A4A4DE2BFBBF29A0AC3F984D532A39448EC3BF5DD36311"
+        "buildSignature": "A0859BDC35AD3E81D4051E2A4678C77C62773EDB3423DDF1DEFF94CB331D398E"
+      }
+    },
+    {
+      "key": "动漫天堂",
+      "name": "漫堂｜4K",
+      "type": 3,
+      "api": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/get.js",
+      "ext": {
+        "host": "https://yun-1316442804.cos.ap-guangzhou.myqcloud.com/500.txt",
+        "key": "1vi33w2pAHEm8Y6U",
+        "init": "V122",
+        "api": 2,
+        "ua": "okhttp/3.10.0"
+      }
+    },
+    {
+      "key": "四叶草",
+      "name": "幸运｜4K",
+      "type": 3,
+      "api": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/get.js",
+      "ext": {
+        "host": "https://yzysap.oss-cn-hangzhou.aliyuncs.com/sss.txt",
+        "key": "wNCwbXzr0Bm6cS2C",
+        "init": "V122",
+        "api": 2,
+        "ua": "okhttp/3.10.0"
+      }
+    },
+    {
+      "key": "追番99",
+      "name": "追番｜4K",
+      "type": 3,
+      "api": "csp_App99",
+      "jar": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/IY/main/spider.jar",
+      "ext": {
+        "host": "https://api.hboqy.cn.hboqy.cn/api",
+        "LoginPath": "/app/log",
+        "appkey": "a0a18659a9977a47e53442cd084b536c",
+        "versionName": "6.1.7",
+        "name": "追番达人",
+        "package": "com.android.packageinstaller",
+        "buildNumber": "2002",
+        "buildSignature": "A40DA80A59D170CAA950CF15C18C454D47A39B26989D8B640ECD745BA71BF5DC"
+      }
+    },
+    {
+      "key": "zhiqiu",
+      "name": "知秋｜4K",
+      "type": 3,
+      "api": "csp_zhiqiuFishGuard",
+      "jar": "https://gitee.com/zengjing0620/tvbox/raw/jar/moyu.php",
+      "searchable": 1,
+      "ext": "http://www.小不点.com/api//2026/zhiqiu.php"
+    },
+    {
+      "key": "寻川",
+      "name": "寻川｜4K",
+      "api": "csp_AppNoxFishGuard",
+      "jar": "https://gitee.com/zengjing0620/tvbox/raw/jar/moyu.php",
+      "type": 3,
+      "ext": "AbcP1HG0F9DImJN3O0j1Bbun2pWvbIasZkXzOSFtW0E/HSe2wlzD6dQpVI9d9bmoCMLwvn2SborJU02oWR2PwVx5rDrBoxNUmdN0kbis2BLgbLmTYH0OT9VpeTpjiCj9WOoVXqnWtpPPxJSmUxDawdyPleyFu186EEDaVhlYY5tGOvh4j4zpu67S/HtYreFssTYUYuNpKwdoGIg7bWXmuM11j8PecqLCioIsxAXK7OeZNDErFXw5sw2w4Gx8Mv5gfVVo+6EU0QwPdhl9oQGbSizsRpdhneZe5QxSCnxTD4H9MU/52+bgirD+V93aMn9glFssf1NWCP/KEqxwx/F4A50023mXgL4Axk0/ClID5jrnVgxi6L/rl15KXfG1Ks7x9nyQadrDfsnwD6Ht6pcgipkP/WlOJBnf80DC0NEi1xUKMdZN/mndpIJBIqHrUdi4+5nV0aght2VISlNlmfA6ZXfa0P3dUUza+2vGBMkWZnGpsw6qMPLq1Fi1PVegq7zqd4Q7EU6QnHjpQLISbw3WegBgLkwJI4g7arygvD2DqWLqHDjQyCf+0ERiNss65iH9tg1nc6oxl3NAzFN5YkxpvN7eWCVWVhgKkcl7Tdkfzt2LI7XUPj5Q8eNM88dwgKoeE/mMPmLBD2xg/B7Bq3RZa3sZAswf6QDKYrxrm3leGD9HRDZBd+nMPQ9V86J/YZ6WqS3ekLwGjfzxl2VpmrTzdhFIym6D9YpAUQ4Jsvi6pdPgDpWrwb0LGsYZdrS0Y5Ppp8vzbFuvBXDCkl96gwOJIVT/k9OEj6V0vfLXK6XgW/PIRisZRFKNU5upA7UFv20s0cRv4qScI7UTI8FP/E6w5BElCMTeQ6RQOiGjH0NVsgCTVgaXi8qbOL9bkeuh2zHHc03QxoKM3v0k1LGmPT2MBWRTcTHo3NtomX+ox/BqyD0wFPptZgMJ/mm+vorXvvWD+SXmNwqwdWG4G9Q69bD1/YR2AQS1yDjJcvIuqSgAJYQHAhFxBBACy6j8cRpHl2fnlQ=="
+    },
+    {
+      "key": "剧圈99",
+      "name": "剧圈丨4K",
+      "type": 3,
+      "api": "csp_App99",
+      "jar": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/IY/main/spider.jar",
+      "ext": {
+        "host": "http://124.221.3.182:19987/app/bn",
+        "appkey": "d1f0c269eab74d93821fffc9befdbbba",
+        "versionName": "1.2.0",
+        "name": "剧圈圈",
+        "package": "com.qingtangxiaozhuan.xyz",
+        "buildNumber": "2002",
+        "buildSignature": "054FA8DDA4319C6B6A9B954CA5777541C993F00B1B0BD4394F7EDE48184C4594"
       }
     },
     {
@@ -95,10 +182,7 @@
         "site": [
           "https://mihdr.top",
           "https://www.miqk.cc",
-          "https://xiaomiai.site",
-          "https://xiaomi666.fun",
-          "https://www.mihdr.top",
-          "https://www.zhizhenpan.fun"
+          "https://www.mihdr.top"
         ]
       }
     },
@@ -114,11 +198,9 @@
       "changeable": 1,
       "ext": {
         "site": [
+          "https://www.wogg.net",
           "https://wogg.xxooo.cf",
-          "https://woggpan.888484.xyz",
-          "https://wogg.333232.xyz",
-          "http://woggpan.xxooo.cf",
-          "https://www.wogg.one"
+          "https://woggpan.xxooo.cf"
         ]
       }
     },
@@ -135,10 +217,8 @@
       "ext": {
         "site": [
           "https://www.2xiaopan.top",
-          "https://2xiaopan.top",
           "https://www.erxiaozhan.top",
-          "https://www.2xiaozhan.top",
-          "https://wexwp.cc"
+          "https://www.2xiaozhan.top"
         ]
       }
     },
@@ -177,6 +257,22 @@
       }
     },
     {
+      "key": "快映",
+      "name": "快映｜4K自扫",
+      "type": 3,
+      "jar": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/IY/main/spider.jar",
+      "api": "csp_PanWebShare",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": {
+        "site": [
+          "http://38.76.197.172:12521"
+        ]
+      }
+    },
+    {
       "key": "藤藤",
       "name": "小腾｜4K",
       "type": 3,
@@ -189,96 +285,6 @@
       "type": 3,
       "api": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js",
       "ext": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/茫茫.png"
-    },
-    {
-      "key": "动漫天堂",
-      "name": "漫堂｜4K",
-      "type": 3,
-      "api": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/get.js",
-      "ext": {
-        "host": "https://yun-1316442804.cos.ap-guangzhou.myqcloud.com/500.txt",
-        "key": "1vi33w2pAHEm8Y6U",
-        "init": "V122",
-        "api": 2,
-        "ua": "okhttp/3.10.0"
-      }
-    },
-    {
-      "key": "首发",
-      "name": "首发｜4K",
-      "type": 3,
-      "api": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/get.js",
-      "ext": {
-        "host": "https://yun-1316442804.cos.ap-guangzhou.myqcloud.com/600.txt",
-        "key": "FTgP4Gq8zPiqbt7M",
-        "init": "V122",
-        "api": 2,
-        "ua": "okhttp/3.10.0"
-      },
-      "categories": [
-        "动漫",
-        "电视剧",
-        "电影",
-        "综艺",
-        "短剧",
-        "少儿",
-        "学习"
-      ]
-    },
-    {
-      "key": "四叶草",
-      "name": "幸运｜4K",
-      "type": 3,
-      "api": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/get.js",
-      "ext": {
-        "host": "https://yzysap.oss-cn-hangzhou.aliyuncs.com/sss.txt",
-        "key": "wNCwbXzr0Bm6cS2C",
-        "init": "V122",
-        "api": 2,
-        "ua": "okhttp/3.10.0"
-      }
-    },
-    {
-      "key": "追番99",
-      "name": "追番｜4K",
-      "type": 3,
-      "api": "csp_App99",
-      "jar": "https://gh.llkk.cc/https://raw.githubusercontent.com/zengjing0620/tvbox/refs/heads/main/lib/spider.jar",
-      "ext": {
-        "host": "https://api.hboqy.cn.hboqy.cn/api",
-        "LoginPath": "/app/log",
-        "appkey": "a0a18659a9977a47e53442cd084b536c",
-        "versionName": "6.1.7",
-        "name": "追番达人",
-        "package": "com.android.packageinstaller",
-        "buildNumber": "2002",
-        "buildSignature": "A40DA80A59D170CAA950CF15C18C454D47A39B26989D8B640ECD745BA71BF5DC"
-      }
-    },
-    {
-      "key": "zhiqiu",
-      "name": "知秋｜4K",
-      "type": 3,
-      "api": "csp_zhiqiuFishGuard",
-      "jar": "https://gitee.com/zengjing0620/tvbox/raw/jar/moyu.php",
-      "searchable": 1,
-      "ext": "http://www.小不点.com/api//2026/zhiqiu.php"
-    },
-    {
-      "key": "寻川",
-      "name": "寻川｜4K",
-      "api": "csp_AppNoxFishGuard",
-      "jar": "https://gitee.com/zengjing0620/tvbox/raw/jar/moyu.php",
-      "type": 3,
-      "ext": "AbcP1HG0F9DImJN3O0j1Bbun2pWvbIasZkXzOSFtW0E/HSe2wlzD6dQpVI9d9bmoCMLwvn2SborJU02oWR2PwVx5rDrBoxNUmdN0kbis2BLgbLmTYH0OT9VpeTpjiCj9WOoVXqnWtpPPxJSmUxDawdyPleyFu186EEDaVhlYY5tGOvh4j4zpu67S/HtYreFssTYUYuNpKwdoGIg7bWXmuM11j8PecqLCioIsxAXK7OeZNDErFXw5sw2w4Gx8Mv5gfVVo+6EU0QwPdhl9oQGbSizsRpdhneZe5QxSCnxTD4H9MU/52+bgirD+V93aMn9glFssf1NWCP/KEqxwx/F4A50023mXgL4Axk0/ClID5jrnVgxi6L/rl15KXfG1Ks7x9nyQadrDfsnwD6Ht6pcgipkP/WlOJBnf80DC0NEi1xUKMdZN/mndpIJBIqHrUdi4+5nV0aght2VISlNlmfA6ZXfa0P3dUUza+2vGBMkWZnGpsw6qMPLq1Fi1PVegq7zqd4Q7EU6QnHjpQLISbw3WegBgLkwJI4g7arygvD2DqWLqHDjQyCf+0ERiNss65iH9tg1nc6oxl3NAzFN5YkxpvN7eWCVWVhgKkcl7Tdkfzt2LI7XUPj5Q8eNM88dwgKoeE/mMPmLBD2xg/B7Bq3RZa3sZAswf6QDKYrxrm3leGD9HRDZBd+nMPQ9V86J/YZ6WqS3ekLwGjfzxl2VpmrTzdhFIym6D9YpAUQ4Jsvi6pdPgDpWrwb0LGsYZdrS0Y5Ppp8vzbFuvBXDCkl96gwOJIVT/k9OEj6V0vfLXK6XgW/PIRisZRFKNU5upA7UFv20s0cRv4qScI7UTI8FP/E6w5BElCMTeQ6RQOiGjH0NVsgCTVgaXi8qbOL9bkeuh2zHHc03QxoKM3v0k1LGmPT2MBWRTcTHo3NtomX+ox/BqyD0wFPptZgMJ/mm+vorXvvWD+SXmNwqwdWG4G9Q69bD1/YR2AQS1yDjJcvIuqSgAJYQHAhFxBBACy6j8cRpHl2fnlQ=="
-    },
-    {
-      "key": "沐辞",
-      "name": "沐辞┃4K",
-      "api": "csp_AppNoxFishGuard",
-      "jar": "https://gitee.com/zengjing0620/tvbox/raw/jar/moyu.php",
-      "type": 3,
-      "ext": "AQUucLUJRH9RFWo2llKlyTrMCyVJ0Kpob6GGGwM0j5jiyraPW+SaJOKlkFrgd1ZhRMCnf0G74bm9C+4z5cinWObAMVMVtYf3sq6ftyqkjscrCwmACTm3lYdUtHGXFJI5MibkogunAZdw4jqNzeJW5yZmcvtvNWAB2u3HpiPCZ/7BBa+frYoJk64v5fZCFR9ywNGr0nXP+F3iwSBdiuzG3EiSTWwdh66EiviaRCI17Qad4cXfy3SMDsy39ejvXzdTrN0VOAx2XDqhFRpL6JnxweIDg8NZ75R0qJDpn9hLiTUxiIB2fT9pjD+Da10ThaLJbcf49f2N2AbwIYaL0+7lGdPD4/WSG1B/MsJYbNVEIPVn4d3lWofSBf904ualn0Yx+RE8SQfoXWXiHowqIU01uQfWuFXV+1LwHTc3ZkTfdAd9SRqQgkfl4QwyogKb9KXE51rexjvPo7heswXhKJVnginjrFrCSuPbQ5I4G9mY0ivmsNLhl4YgezZ8nNLYJTisU7gn4Q5tSUdGCo4NGVmTAm9hRLKz5ao1FNnQ6zbq33/IRtiwfHPlGZf543z+wA4ZCXukLVd2HKmNniR7dnIScjvSENMatCmS60pm6xW0ZapgZZd6rDnSivtChrU+GetWYQBBA1d/FeFgOSGhd175JvnInnwe0sGlQ+aoSyaANoEDXjk8LSzJPScRIqEn4sUBHehjWBQyQjb8wGFjciWlQETGYFYyXn4SEAhqk/KSNNHbAO7nDTZrVJatDtF/e1W0+ryHzoY+UWoVoHqm2zbsqNezbSpumOfaIJIfM5GmcpiMdjAh7w/HpGngmX/MI574TixdhpqWvtagwEVu61hxxmK5ZDJXER2wjFxZBMn2T5QelhNRHUNT7HoxkrHs8VXBwkYbLjoXs05vtXVpkLkokEi2QJU/Qjh0lCCyvHHIE2cvEzcpAqRfvzGHksXSWwZzV1MO4iHjd86Sgo/8Xp7RLQMe4G57+bg+HoZXY5YDQzK+ESXGIs1p3agfPhvaP/0fkUhUSHkLCsoO3yCuQarGPR4qgDVN8bayFm7Ya3rK9zD4"
     }
   ],
   "parses": [
