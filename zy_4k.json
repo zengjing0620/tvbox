@@ -6,7 +6,7 @@
   "sites": [
     {
       "key": "豆瓣",
-      "name": "4K线路测试中",
+      "name": "4K线路消耗带宽资源较多，网速不够会卡顿",
       "type": 3,
       "api": "csp_Douban",
       "searchable": 0
@@ -35,21 +35,36 @@
       "key": "三秋影视",
       "name": "三秋｜4K",
       "type": 3,
-      "jar": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/IY/main/spider.jar",
+      "jar": "https://gitee.com/zengjing0620/tvbox/raw/jar/spider.jar",
       "api": "csp_App3Q"
     },
     {
-      "key": "火云",
-      "name": "火云｜4k",
+      "key": "玄羽",
+      "name": "玄羽｜4K",
       "type": 3,
-      "jar": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/IY/main/spider.jar",
-      "api": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/hy.js"
+      "jar": "https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260604/DUGG/fish06042311.php;md5;9f6c103215d808201d7d7a04810c5435",
+      "api": "csp_AppEyFishGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "AU15oqAr8ldNhctrCxR+6FnSpTjCRl47OB3HeP7f7ne4Qpw/jvjLN2p6LC0Rt9wMpVHQD5XgCXdlcSwuUFOLeYr45vWfu9U3sxzU5XqRtgAxSzjdQaafORQgznXT8fDaPQoo12H77r6oPzpT9NH+7sp6+eMCKLlHT1nL8GunRVuuoC6QOFYLhVXR2AVa2ph6trmAeMPGeoOYy9ZUO+ir7i32sDW9/jDJEQNu0+gQ26l7J6nKeB4diUR+ZqbwH14CjXR2utj3iN/l9gSZHK2DdKJtCxaS8UlhJjuaCn7APGKVhW35lHzM5C9KO61Zi9lBuwraSRtkY0HmArZ0bwKZBi4j4wkjP7YW2xD6srFajGxAsU/6MpVs6VPmZw2rkh92HRAvt3G7B1bG+iu3AYkccc6UOKQXGv9z6ThsY6vC6ism73CnvbodbZatqIFKOCrSMWWOzyEN2UI9FTFn6xkpKzsFSQTSiv6F3veIKYSLSEY3RCdzT7JrLdr3S5upW21sNo6YKzC77Nl0yIZgX2EYfFk7f3crYuVzXa5Ce+RCOHru9ydWTPfo+WmUKHmbymGwn/a5WLW3qED3A+9mCYTf0MknisljSOJxMckWp9ivJHdLiCPayV3HgKqKZelpXJI5IHlqu3qaAk3LDZyezzPVQuFdmId3egCQKNeoaxfGtPZV0haqWCSZGKO9Qg9s37SeCZxaF1dYPFOkoRqJ0bXZgR4ZwbgtaF7/uNghVyh6UovdZALf3m5RqtjKOSGHhNl7rvrRVx0tIbg3GN+wlc0rork="
+    },
+    {
+      "key": "如兰",
+      "name": "如兰｜4K",
+      "type": 3,
+      "jar": "https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260604/DUGG/fish06042311.php;md5;9f6c103215d808201d7d7a04810c5435",
+      "api": "csp_AppEyFishGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "Ac3h6XaxxXRNH21LbBkNwm1xOnwqX+coY8MCu+Uz/B+HLewNBxy2ALWw0c8hwdpyYQbXl0cBj8kHcGVtynsIQtqw6JtdSdOy+UErmSajPsBhjYcCrz7CZmcy8PNAnS88POwtpmFTZ3eYI3kHkING4+5H+9BbzkScoZvvss6heQQfvwTuxdTX8GwklLsI/6SfTtJIcDXXKomaJrRKFGk2qVikEGlIQ/b0sAa9IUKpfivhZZ0LXYs8ZR9MHvFwH9QS1alTjkiuZeoUtw7tqlXzxvNCh2FrD422LeJV6iDZGJZSLW6nUGgR+XTwT9wElzRO7jfARe9w4gxZXg4HftpIvMfCPRFaUxQX4bUfFtrkBuDcJGeB0ptbY4wO72mvzkj6wlg+vRaG7DWXl/PIwXcGSUxPwcu9tlZH6clcYE/5fOnogfkvTlVKQdzcmo+gR6UNAt9rYFDWNIkAAy5rRFCdIeRxLyNWlxhMMxcTtCckg6Bm2+POW5zJQs+i4+DSZnp1/xjcVP+l7j2hXB/PWfXSIcir88WoCDoU4szxsJW28/GSkV5qneRQd5NPG6meiYReeqOBFxB5au2ZhILQgcOAU8Zubm8K8Os0UMFPW3O8SPSOjzHzt0VfP6sleC2r7XF2Yb8XS8XnxVRDFNwHhSnLJ6/OxnC1z0302KyI4bEqdSuu9rfpOvVvDTBJc+mCsQGVyaK4UO2JWs8h97ftB3DUcQmT6lvfqELDx847EzsUZEZpxtbMSbclkVGUmEi30R1ppg=="
     },
     {
       "key": "极影",
       "name": "极影｜4K测试",
       "type": 3,
-      "api": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/jy.js",
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/jy.js",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -60,7 +75,7 @@
       "name": "无极丨4K",
       "type": 3,
       "api": "csp_App99",
-      "jar": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/IY/main/spider.jar",
+      "jar": "https://gitee.com/zengjing0620/tvbox/raw/jar/spider.jar",
       "ext": {
         "host": "http://111.170.140.70:19987/app/bn",
         "LoginPath": "/app/log",
@@ -74,23 +89,17 @@
       }
     },
     {
-      "key": "动漫天堂",
-      "name": "漫堂｜4K",
+      "key": "火云",
+      "name": "火云｜4k",
       "type": 3,
-      "api": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/get.js",
-      "ext": {
-        "host": "https://yun-1316442804.cos.ap-guangzhou.myqcloud.com/500.txt",
-        "key": "1vi33w2pAHEm8Y6U",
-        "init": "V122",
-        "api": 2,
-        "ua": "okhttp/3.10.0"
-      }
+      "jar": "https://gitee.com/zengjing0620/tvbox/raw/jar/spider.jar",
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/hy.js"
     },
     {
       "key": "四叶草",
       "name": "幸运｜4K",
       "type": 3,
-      "api": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/get.js",
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/get.js",
       "ext": {
         "host": "https://yzysap.oss-cn-hangzhou.aliyuncs.com/sss.txt",
         "key": "wNCwbXzr0Bm6cS2C",
@@ -104,7 +113,7 @@
       "name": "追番｜4K",
       "type": 3,
       "api": "csp_App99",
-      "jar": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/IY/main/spider.jar",
+      "jar": "https://gitee.com/zengjing0620/tvbox/raw/jar/spider.jar",
       "ext": {
         "host": "https://api.hboqy.cn.hboqy.cn/api",
         "LoginPath": "/app/log",
@@ -114,6 +123,19 @@
         "package": "com.android.packageinstaller",
         "buildNumber": "2002",
         "buildSignature": "A40DA80A59D170CAA950CF15C18C454D47A39B26989D8B640ECD745BA71BF5DC"
+      }
+    },
+    {
+      "key": "动漫天堂",
+      "name": "漫堂｜4K",
+      "type": 3,
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/get.js",
+      "ext": {
+        "host": "https://yun-1316442804.cos.ap-guangzhou.myqcloud.com/500.txt",
+        "key": "1vi33w2pAHEm8Y6U",
+        "init": "V122",
+        "api": 2,
+        "ua": "okhttp/3.10.0"
       }
     },
     {
@@ -138,7 +160,7 @@
       "name": "剧圈丨4K",
       "type": 3,
       "api": "csp_App99",
-      "jar": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/IY/main/spider.jar",
+      "jar": "https://gitee.com/zengjing0620/tvbox/raw/jar/spider.jar",
       "ext": {
         "host": "http://124.221.3.182:19987/app/bn",
         "appkey": "d1f0c269eab74d93821fffc9befdbbba",
@@ -153,7 +175,7 @@
       "key": "木偶",
       "name": "木偶｜4K自扫",
       "type": 3,
-      "jar": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/IY/main/spider.jar",
+      "jar": "https://gitee.com/zengjing0620/tvbox/raw/jar/spider.jar",
       "api": "csp_PanWebShare",
       "searchable": 1,
       "quickSearch": 1,
@@ -172,7 +194,7 @@
       "key": "至臻",
       "name": "至臻｜4K自扫",
       "type": 3,
-      "jar": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/IY/main/spider.jar",
+      "jar": "https://gitee.com/zengjing0620/tvbox/raw/jar/spider.jar",
       "api": "csp_PanWebShare",
       "searchable": 1,
       "quickSearch": 1,
@@ -190,7 +212,7 @@
       "key": "玩偶哥哥",
       "name": "玩偶｜4K自扫",
       "type": 3,
-      "jar": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/IY/main/spider.jar",
+      "jar": "https://gitee.com/zengjing0620/tvbox/raw/jar/spider.jar",
       "api": "csp_Wogg",
       "searchable": 1,
       "quickSearch": 1,
@@ -208,7 +230,7 @@
       "key": "二小",
       "name": "二小｜4K自扫",
       "type": 3,
-      "jar": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/IY/main/spider.jar",
+      "jar": "https://gitee.com/zengjing0620/tvbox/raw/jar/spider.jar",
       "api": "csp_PanWebShare",
       "searchable": 1,
       "quickSearch": 1,
@@ -226,7 +248,7 @@
       "key": "虎斑",
       "name": "虎斑｜4K自扫",
       "type": 3,
-      "jar": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/IY/main/spider.jar",
+      "jar": "https://gitee.com/zengjing0620/tvbox/raw/jar/spider.jar",
       "api": "csp_PanWebShare",
       "searchable": 1,
       "quickSearch": 1,
@@ -242,7 +264,7 @@
       "key": "多多",
       "name": "多多｜4K自扫",
       "type": 3,
-      "jar": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/IY/main/spider.jar",
+      "jar": "https://gitee.com/zengjing0620/tvbox/raw/jar/spider.jar",
       "api": "csp_PanWebShare",
       "searchable": 1,
       "quickSearch": 1,
@@ -260,7 +282,7 @@
       "key": "快映",
       "name": "快映｜4K自扫",
       "type": 3,
-      "jar": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/IY/main/spider.jar",
+      "jar": "https://gitee.com/zengjing0620/tvbox/raw/jar/spider.jar",
       "api": "csp_PanWebShare",
       "searchable": 1,
       "quickSearch": 1,
@@ -276,15 +298,15 @@
       "key": "藤藤",
       "name": "小腾｜4K",
       "type": 3,
-      "api": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js",
-      "ext": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/藤藤.png"
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js",
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/藤藤.png"
     },
     {
       "key": "茫茫",
       "name": "小芒｜4K",
       "type": 3,
-      "api": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js",
-      "ext": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/茫茫.png"
+      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js",
+      "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/茫茫.png"
     }
   ],
   "parses": [
