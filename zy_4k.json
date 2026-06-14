@@ -61,6 +61,18 @@
       "ext": "Ac3h6XaxxXRNH21LbBkNwm1xOnwqX+coY8MCu+Uz/B+HLewNBxy2ALWw0c8hwdpyYQbXl0cBj8kHcGVtynsIQtqw6JtdSdOy+UErmSajPsBhjYcCrz7CZmcy8PNAnS88POwtpmFTZ3eYI3kHkING4+5H+9BbzkScoZvvss6heQQfvwTuxdTX8GwklLsI/6SfTtJIcDXXKomaJrRKFGk2qVikEGlIQ/b0sAa9IUKpfivhZZ0LXYs8ZR9MHvFwH9QS1alTjkiuZeoUtw7tqlXzxvNCh2FrD422LeJV6iDZGJZSLW6nUGgR+XTwT9wElzRO7jfARe9w4gxZXg4HftpIvMfCPRFaUxQX4bUfFtrkBuDcJGeB0ptbY4wO72mvzkj6wlg+vRaG7DWXl/PIwXcGSUxPwcu9tlZH6clcYE/5fOnogfkvTlVKQdzcmo+gR6UNAt9rYFDWNIkAAy5rRFCdIeRxLyNWlxhMMxcTtCckg6Bm2+POW5zJQs+i4+DSZnp1/xjcVP+l7j2hXB/PWfXSIcir88WoCDoU4szxsJW28/GSkV5qneRQd5NPG6meiYReeqOBFxB5au2ZhILQgcOAU8Zubm8K8Os0UMFPW3O8SPSOjzHzt0VfP6sleC2r7XF2Yb8XS8XnxVRDFNwHhSnLJ6/OxnC1z0302KyI4bEqdSuu9rfpOvVvDTBJc+mCsQGVyaK4UO2JWs8h97ftB3DUcQmT6lvfqELDx847EzsUZEZpxtbMSbclkVGUmEi30R1ppg=="
     },
     {
+      "key": "yingshi",
+      "name": "分享丨4K",
+      "type": 3,
+      "api": "https://15487.kstore.space/AppGet.js",
+      "ext": {
+        "host": "http://107.151.244.162:6622",
+        "key": "wNCwbXzr0Bm6cS2C",
+        "类型": "APP",
+        "api": 2
+      }
+    },
+    {
       "key": "极影",
       "name": "极影｜4K测试",
       "type": 3,
@@ -140,18 +152,18 @@
     },
     {
       "key": "zhiqiu",
-      "name": "知秋｜4K",
+      "name": "知秋┃4K",
       "type": 3,
-      "api": "csp_zhiqiuFishGuard",
-      "jar": "https://gitee.com/zengjing0620/tvbox/raw/jar/moyu.php",
+      "jar": "https://gitee.com/zengjing0620/tvbox/raw/jar/moyu.jar",
+      "api": "csp_zhiqiu",
       "searchable": 1,
       "ext": "http://www.小不点.com/api//2026/zhiqiu.php"
     },
     {
       "key": "寻川",
-      "name": "寻川｜4K",
-      "api": "csp_AppNoxFishGuard",
-      "jar": "https://gitee.com/zengjing0620/tvbox/raw/jar/moyu.php",
+      "name": "寻川┃4K",
+      "api": "csp_AppNox",
+      "jar": "https://gitee.com/zengjing0620/tvbox/raw/jar/moyu.jar",
       "type": 3,
       "ext": "AbcP1HG0F9DImJN3O0j1Bbun2pWvbIasZkXzOSFtW0E/HSe2wlzD6dQpVI9d9bmoCMLwvn2SborJU02oWR2PwVx5rDrBoxNUmdN0kbis2BLgbLmTYH0OT9VpeTpjiCj9WOoVXqnWtpPPxJSmUxDawdyPleyFu186EEDaVhlYY5tGOvh4j4zpu67S/HtYreFssTYUYuNpKwdoGIg7bWXmuM11j8PecqLCioIsxAXK7OeZNDErFXw5sw2w4Gx8Mv5gfVVo+6EU0QwPdhl9oQGbSizsRpdhneZe5QxSCnxTD4H9MU/52+bgirD+V93aMn9glFssf1NWCP/KEqxwx/F4A50023mXgL4Axk0/ClID5jrnVgxi6L/rl15KXfG1Ks7x9nyQadrDfsnwD6Ht6pcgipkP/WlOJBnf80DC0NEi1xUKMdZN/mndpIJBIqHrUdi4+5nV0aght2VISlNlmfA6ZXfa0P3dUUza+2vGBMkWZnGpsw6qMPLq1Fi1PVegq7zqd4Q7EU6QnHjpQLISbw3WegBgLkwJI4g7arygvD2DqWLqHDjQyCf+0ERiNss65iH9tg1nc6oxl3NAzFN5YkxpvN7eWCVWVhgKkcl7Tdkfzt2LI7XUPj5Q8eNM88dwgKoeE/mMPmLBD2xg/B7Bq3RZa3sZAswf6QDKYrxrm3leGD9HRDZBd+nMPQ9V86J/YZ6WqS3ekLwGjfzxl2VpmrTzdhFIym6D9YpAUQ4Jsvi6pdPgDpWrwb0LGsYZdrS0Y5Ppp8vzbFuvBXDCkl96gwOJIVT/k9OEj6V0vfLXK6XgW/PIRisZRFKNU5upA7UFv20s0cRv4qScI7UTI8FP/E6w5BElCMTeQ6RQOiGjH0NVsgCTVgaXi8qbOL9bkeuh2zHHc03QxoKM3v0k1LGmPT2MBWRTcTHo3NtomX+ox/BqyD0wFPptZgMJ/mm+vorXvvWD+SXmNwqwdWG4G9Q69bD1/YR2AQS1yDjJcvIuqSgAJYQHAhFxBBACy6j8cRpHl2fnlQ=="
     },
