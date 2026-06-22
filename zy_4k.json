@@ -6,7 +6,7 @@
   "sites": [
     {
       "key": "豆瓣",
-      "name": "4K线路宽带需求大，网速不够会卡顿",
+      "name": "4K线路消耗带宽资源较多，网速不够会卡顿",
       "type": 3,
       "api": "csp_Douban",
       "searchable": 0
@@ -35,7 +35,7 @@
       "key": "三秋影视",
       "name": "三秋｜4K",
       "type": 3,
-      "jar": "https://gitee.com/zengjing0620/tvbox/raw/jar/spider.jar",
+      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/spider.jar",
       "api": "csp_App3Q"
     },
     {
@@ -75,26 +75,30 @@
       ]
     },
     {
-      "key": "玄羽",
-      "name": "玄羽｜4K",
+      "key": "景仪",
+      "name": "景仪┃4K",
       "type": 3,
-      "jar": "https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260604/DUGG/fish06042311.php;md5;9f6c103215d808201d7d7a04810c5435",
-      "api": "csp_AppEyFishGuard",
+      "jar": "https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260621/5rOK/fish06210410.jar;md5;9651c83ce3b15fa0596b73057495de7f",
+      "api": "csp_App88",
       "searchable": 1,
-      "quickSearch": 1,
       "filterable": 1,
-      "ext": "AU15oqAr8ldNhctrCxR+6FnSpTjCRl47OB3HeP7f7ne4Qpw/jvjLN2p6LC0Rt9wMpVHQD5XgCXdlcSwuUFOLeYr45vWfu9U3sxzU5XqRtgAxSzjdQaafORQgznXT8fDaPQoo12H77r6oPzpT9NH+7sp6+eMCKLlHT1nL8GunRVuuoC6QOFYLhVXR2AVa2ph6trmAeMPGeoOYy9ZUO+ir7i32sDW9/jDJEQNu0+gQ26l7J6nKeB4diUR+ZqbwH14CjXR2utj3iN/l9gSZHK2DdKJtCxaS8UlhJjuaCn7APGKVhW35lHzM5C9KO61Zi9lBuwraSRtkY0HmArZ0bwKZBi4j4wkjP7YW2xD6srFajGxAsU/6MpVs6VPmZw2rkh92HRAvt3G7B1bG+iu3AYkccc6UOKQXGv9z6ThsY6vC6ism73CnvbodbZatqIFKOCrSMWWOzyEN2UI9FTFn6xkpKzsFSQTSiv6F3veIKYSLSEY3RCdzT7JrLdr3S5upW21sNo6YKzC77Nl0yIZgX2EYfFk7f3crYuVzXa5Ce+RCOHru9ydWTPfo+WmUKHmbymGwn/a5WLW3qED3A+9mCYTf0MknisljSOJxMckWp9ivJHdLiCPayV3HgKqKZelpXJI5IHlqu3qaAk3LDZyezzPVQuFdmId3egCQKNeoaxfGtPZV0haqWCSZGKO9Qg9s37SeCZxaF1dYPFOkoRqJ0bXZgR4ZwbgtaF7/uNghVyh6UovdZALf3m5RqtjKOSGHhNl7rvrRVx0tIbg3GN+wlc0rork="
+      "ext": "AScEBDU8ZGTviWgGR4VE0GGkVwxm9FRojDfGdLd7Uq6yQW7ma68i5+t2StAnXVayevGqI3Kb0rJi2eqa1R3PW9cxHiFDbXAhtGajyY69GUpDZQ615h6l9jBlh/RMkOo3RfAvtXJdZasUTDhxflfJPCn0T5P68L/XHUV9ylgYmABoOSghqLVoMUNWDS5E2PAMVkm39vpIJOyKNEIhVd3EQmPxDSjSoDE56akhNdBPWsT+tZVbLO8rEccdRYGvxYsXmVjhxaXhmzQEoEme5LF/0+x+M2A880NZ5akhrKIl5ZjfREZCgQ6FClx7+L8f8fb2VNiLtFu5538MrSRozjub6WRKe1m5OOdgdOTsAXJXw5QG5IQ/Y/i9VBZTZUjqP+0TpP4h92QjLynjJAFzwSr3bAOOIvEJW2LsK+hocK72wpyVG93vl42XQpU5s95dAVJOOOnbawZUsOq8a0ctuSsSdWQ="
     },
     {
-      "key": "如兰",
-      "name": "如兰｜4K",
+      "key": "悯善",
+      "name": "悯善┃4K",
       "type": 3,
-      "jar": "https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260604/DUGG/fish06042311.php;md5;9f6c103215d808201d7d7a04810c5435",
-      "api": "csp_AppEyFishGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "Ac3h6XaxxXRNH21LbBkNwm1xOnwqX+coY8MCu+Uz/B+HLewNBxy2ALWw0c8hwdpyYQbXl0cBj8kHcGVtynsIQtqw6JtdSdOy+UErmSajPsBhjYcCrz7CZmcy8PNAnS88POwtpmFTZ3eYI3kHkING4+5H+9BbzkScoZvvss6heQQfvwTuxdTX8GwklLsI/6SfTtJIcDXXKomaJrRKFGk2qVikEGlIQ/b0sAa9IUKpfivhZZ0LXYs8ZR9MHvFwH9QS1alTjkiuZeoUtw7tqlXzxvNCh2FrD422LeJV6iDZGJZSLW6nUGgR+XTwT9wElzRO7jfARe9w4gxZXg4HftpIvMfCPRFaUxQX4bUfFtrkBuDcJGeB0ptbY4wO72mvzkj6wlg+vRaG7DWXl/PIwXcGSUxPwcu9tlZH6clcYE/5fOnogfkvTlVKQdzcmo+gR6UNAt9rYFDWNIkAAy5rRFCdIeRxLyNWlxhMMxcTtCckg6Bm2+POW5zJQs+i4+DSZnp1/xjcVP+l7j2hXB/PWfXSIcir88WoCDoU4szxsJW28/GSkV5qneRQd5NPG6meiYReeqOBFxB5au2ZhILQgcOAU8Zubm8K8Os0UMFPW3O8SPSOjzHzt0VfP6sleC2r7XF2Yb8XS8XnxVRDFNwHhSnLJ6/OxnC1z0302KyI4bEqdSuu9rfpOvVvDTBJc+mCsQGVyaK4UO2JWs8h97ftB3DUcQmT6lvfqELDx847EzsUZEZpxtbMSbclkVGUmEi30R1ppg=="
+      "jar": "https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260621/5rOK/fish06210410.jar;md5;9651c83ce3b15fa0596b73057495de7f",
+      "api": "csp_App88",
+      "ext": "AY/LmvuAAyhXffcGv5StyHm1MkGdY4inQLRC3KICnxUJBpq0d5dLhvE0+MW8XruH+M/Q/Ruqd6NayN9rihHGuotzXSTrDHgoZ2/dm2JlJ7GYOYfBorPhMPjuOhTNMg9w/J6oP4DXluvDpXNj9uOKq7g/Cx7vrKF6utOSaE1gUgDQwT251mOGTzGsd3ZrtEeepgI6hOdB2gJ4hHRumNhlbVtWDdpnVMYvhCIuH2HUqJFZWM5T+gEZTMLfeUEJt7ScfaQp90qNZID1YNo/tQOaFLGN12o4CkPtCNoYs+emjhVVqIjJzgfplCPIEyjRADqhur0c48FwCiJyp/XGZFmsMJaPKqvOkO+0H5YMKsR+EMmXCr6n0n1VnwGGpYl3maiq1SB78yDnh16291IjwXdERP1csTe41Vg3ppIixtk6q1etAikUle+6fjSFGvAvDYNr2Q=="
+    },
+    {
+      "key": "长泽",
+      "name": "长泽┃4K",
+      "type": 3,
+      "jar": "https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260621/5rOK/fish06210410.jar;md5;9651c83ce3b15fa0596b73057495de7f",
+      "api": "csp_App88",
+      "ext": "Aa+WBBIIxghmbVYkWqlC4wrZvlocl4rSZS9+QyJDF6RgWFfYSb+nEM6WkMHPVbQFva551Srt16FqFroyjNssEXemH+xC5pCMj/ewgFuLEIbY2mXCVJ1bJxWRJAggNgH1f3mjwrBxlZA0kGgfAd0os29Mdi3RNJilSo5VMkPpcQPMeF8/PTbZHNymotiTwtICNcA5Q0WXsqe/wJ3HoLU4gBYQs1lBmYdxtAuvsnte3SbumQEFlaQnygFscx6EGrwKMFZLVcmu9egAXxygsf5PmyzN/xvOr+b+HslccoKqDbHNU/C6yWFwaHBawww0ckXRtoJ8fFbV7Xv4NiRcEf6ePm/cd06xYiZmjRts11gE0r8f7D0vx/TgigmU3v8nrgNYDokUGl/jDdza3o7BXyQumCWRD45wYbmKJ1LKb0ybRvNt"
     },
     {
       "key": "yingshi",
