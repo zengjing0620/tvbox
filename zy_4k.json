@@ -78,7 +78,7 @@
       "key": "景仪",
       "name": "景仪┃4K",
       "type": 3,
-      "jar": "https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260621/5rOK/fish06210410.jar;md5;9651c83ce3b15fa0596b73057495de7f",
+      "jar": "https://gitee.com/zengjing0620/tvbox/raw/jar/moyu.jar",
       "api": "csp_App88",
       "searchable": 1,
       "filterable": 1,
@@ -88,17 +88,29 @@
       "key": "悯善",
       "name": "悯善┃4K",
       "type": 3,
-      "jar": "https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260621/5rOK/fish06210410.jar;md5;9651c83ce3b15fa0596b73057495de7f",
+      "jar": "https://gitee.com/zengjing0620/tvbox/raw/jar/moyu.jar",
       "api": "csp_App88",
       "ext": "AY/LmvuAAyhXffcGv5StyHm1MkGdY4inQLRC3KICnxUJBpq0d5dLhvE0+MW8XruH+M/Q/Ruqd6NayN9rihHGuotzXSTrDHgoZ2/dm2JlJ7GYOYfBorPhMPjuOhTNMg9w/J6oP4DXluvDpXNj9uOKq7g/Cx7vrKF6utOSaE1gUgDQwT251mOGTzGsd3ZrtEeepgI6hOdB2gJ4hHRumNhlbVtWDdpnVMYvhCIuH2HUqJFZWM5T+gEZTMLfeUEJt7ScfaQp90qNZID1YNo/tQOaFLGN12o4CkPtCNoYs+emjhVVqIjJzgfplCPIEyjRADqhur0c48FwCiJyp/XGZFmsMJaPKqvOkO+0H5YMKsR+EMmXCr6n0n1VnwGGpYl3maiq1SB78yDnh16291IjwXdERP1csTe41Vg3ppIixtk6q1etAikUle+6fjSFGvAvDYNr2Q=="
     },
     {
-      "key": "长泽",
-      "name": "长泽┃4K",
+      "key": "CupFox",
+      "name": "茶杯┃4K",
       "type": 3,
-      "jar": "https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260621/5rOK/fish06210410.jar;md5;9651c83ce3b15fa0596b73057495de7f",
-      "api": "csp_App88",
-      "ext": "Aa+WBBIIxghmbVYkWqlC4wrZvlocl4rSZS9+QyJDF6RgWFfYSb+nEM6WkMHPVbQFva551Srt16FqFroyjNssEXemH+xC5pCMj/ewgFuLEIbY2mXCVJ1bJxWRJAggNgH1f3mjwrBxlZA0kGgfAd0os29Mdi3RNJilSo5VMkPpcQPMeF8/PTbZHNymotiTwtICNcA5Q0WXsqe/wJ3HoLU4gBYQs1lBmYdxtAuvsnte3SbumQEFlaQnygFscx6EGrwKMFZLVcmu9egAXxygsf5PmyzN/xvOr+b+HslccoKqDbHNU/C6yWFwaHBawww0ckXRtoJ8fFbV7Xv4NiRcEf6ePm/cd06xYiZmjRts11gE0r8f7D0vx/TgigmU3v8nrgNYDokUGl/jDdza3o7BXyQumCWRD45wYbmKJ1LKb0ybRvNt"
+      "api": "csp_CupFox",
+      "jar": "https://gitee.com/zengjing0620/tvbox/raw/jar/moyu.jar",
+      "searchable": 1,
+      "changeable": 1,
+      "filterable": 1
+    },
+    {
+      "key": "BuBu",
+      "name": "布布┃4K",
+      "type": 3,
+      "api": "csp_BuBu",
+      "jar": "https://gitee.com/zengjing0620/tvbox/raw/jar/moyu.jar",
+      "searchable": 1,
+      "changeable": 1,
+      "filterable": 1
     },
     {
       "key": "yingshi",
