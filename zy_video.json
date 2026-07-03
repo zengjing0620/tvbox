@@ -5,14 +5,14 @@
   "sites": [
     {
       "key": "豆瓣",
-      "name": "0622修复闪退",
+      "name": "0625优化资源内容",
       "type": 3,
       "api": "csp_Douban",
       "searchable": 0
     },
     {
       "key": "热播",
-      "name": "热播┃影视",
+      "name": "热播┃快速影视",
       "type": 3,
       "jar": "https://ncstatic.clewm.net/rsrc/2026/0508/10/56d0b667615145949789418bff9f22a5.png;md5;B63A0EB8852BB7AB06500C424CCC3DAE",
       "api": "csp_TianTian",
@@ -35,7 +35,7 @@
 
     {
       "key": "csp_GuaZi1",
-      "name": "瓜子快速┃影视",
+      "name": "瓜子┃快速影视",
       "type": 3,
       "api": "csp_GuaziAmns",
       "searchable": 1,
@@ -45,7 +45,55 @@
         "sites": "",
         "filters": "https://file.icve.com.cn/file_doc/822/528/CD984013F5776F759DFC815995F87BFB.aowu"
       },
-      "jar": "https://ncstatic.clewm.net/rsrc/2026/0606/11/e73824ddbe2d4f28b3e3ccc699d0f064.png;md5;8C8DA63F7C5D8628D0B40FD03632C3B4"
+      "jar": "https://gitee.com/zengjing0620/tvbox/raw/jar/aowu.png"
+    },
+{
+      "key": "360资源",
+      "name": "360┃影视",
+      "type": 1,
+      "api": "https://360zy.com/api.php/provide/vod",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "categories": [
+        "爽文短剧",
+        "国产剧",
+        "大陆综艺",
+        "国产动漫",
+        "韩国剧",
+        "动画片",
+        "动作片",
+        "古装片",
+        "喜剧片",
+        "科幻片",
+        "灾难片",
+        "恐怖片",
+        "惊悚片",
+        "悬疑片",
+        "犯罪片",
+        "爱情片",
+        "剧情片",
+        "战争片",
+        "记录片",
+        "历史片",
+        "短片",
+        "西部片",
+        "欧美剧",
+        "香港剧",
+        "台湾剧",
+        "泰国剧",
+        "日韩动漫",
+        "欧美动漫",
+        "港台综艺",
+        "日韩综艺",
+        "现代都市",
+        "脑洞悬疑",
+        "年代穿越",
+        "古装仙侠",
+        "反转爽剧",
+        "女频恋爱",
+        "成长逆袭"
+      ]
     },
     {
       "key": "爱营",
@@ -345,7 +393,7 @@
       "key": "听心99",
       "name": "听心丨APP",
       "type": 3,
-      "jar": "https://gitee.com/zengjing0620/tvbox/raw/jar/ouge.jpg",
+      "jar": "https://ncstatic-file.clewm.net/rsrc/2026/0526/13/3c2fe19f3ae9dcf760356cb9e958ef48.jpg;md5;7c546ee0441d827c11541a81c5b98a7b",
       "api": "csp_App99",
       "ext": {
         "host": "https://api.12321app.com/api",
@@ -357,6 +405,7 @@
         "buildNumber": "2001",
         "buildSignature": "03DD38CE4C3D62D0F0DEFACC06768D14EB382C7BD77A05B2EBF4D66E154A0D47"
       }
+      //ouge
     },
      {
       "key": "苹果",
@@ -1496,11 +1545,6 @@
     }
   ],
   "lives": [
-   {
-      "name": "美加墨世界杯全程回放（持续更新）",
-      "type": 0,
-      "url": "https://15487.kstore.space/%E4%B8%96%E7%95%8C%E6%9D%AF.txt"
-    },
     {
       "name": "美加墨世界杯专属信号",
       "type": 0,
