@@ -5,7 +5,7 @@
   "sites": [
     {
       "key": "豆瓣",
-      "name": "0625优化资源内容",
+      "name": "0708优化直播内容",
       "type": 3,
       "api": "csp_Douban",
       "searchable": 0
@@ -1551,37 +1551,28 @@
       "url": "http://82.156.243.185:33389/fwc.m3u"
     },
     {
-      "name": "天浪接口",
+      "name": "宝藏TV直播",
       "type": 0,
-      "url": "http://210.245.166.84:1299/live/live1.txt",
-      "ua": "Goiptv/8.8.8",
-      "epg": "https://epg.zbds.top/?ch={name}&date={date}"
+      "url": "https://cnb.cool/fgvss/dszb1/-/git/raw/main/zbtv30.txt"
     },
     {
-      "name": "DSJ接口",
+      "name": "日后TV直播",
       "type": 0,
-      "url": "https://dsj-1312694395.cos.ap-guangzhou.myqcloud.com/dsj10.1.txt",
-      "ua": "Goiptv/8.8.8",
-      "epg": "https://epg.zbds.top/?ch={name}&date={date}"
+      "url": "http://rihou.cc:555/gggg.nzk",
+      "playerType": 2,
+      "ua": "okhttp/3",
+      "epg": "https://epg.112114.eu.org/?ch={name}&date={date}",
+      "logo": "https://epg.112114.eu.org/logo/{name}.png"
     },
     {
-      "name": "龙壹接口",
+      "name": "易发TV直播",
       "type": 0,
-      "url": "http://210.245.166.84:1299/live/live.txt",
-      "ua": "Goiptv/8.8.8",
-      "epg": "https://epg.zbds.top/?ch={name}&date={date}"
-    },
-    {
-      "name": "飞扬接口",
-      "type": 0,
-      "url": "https://chuxinya.top/f/2xLkt8/12.28%E9%A3%9E%E6%89%AC%E7%9B%B4%E6%92%AD.txt",
-      "ua": "Goiptv/8.8.8",
-      "epg": "https://epg.zbds.top/?ch={name}&date={date}"
+      "url": "https://gh-proxy.org/https://raw.githubusercontent.com/fafa002/yf2025/refs/heads/main/yiyifafa.txt"
     },
     {
       "name": "闽粤IPTV",
       "type": 0,
-      "url": "https://d.kstore.dev/download/16458/zb/dszb.txt",
+      "url": "https://chuxinya.top/f/1r2Wuq/dszb.txt",
       "ua": "Goiptv/8.8.8",
       "epg": "https://epg.zbds.top/?ch={name}&date={date}"
     }
