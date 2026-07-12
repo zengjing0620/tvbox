@@ -172,18 +172,15 @@
       "ext": {
         "分类url": "https://www.guan-feng.com/"
       }
+      //xyr
     },
     {
-      "key": "蜗牛1",
-      "name": "蜗牛｜4K",
+      "key": "炎霄影视",
+      "name": "炎霄｜4K",
       "type": 3,
-      "api": "csp_XBPQ",
-      "jar": "https://gitee.com/xianluyuan/jar/raw/master/xyqxbpq.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "ext": {
-        "分类url": "https://zmi.kdns.fr"
-      }
+      "jar": "https://15487.kstore.space/spider.jar",
+      "api": "https://meow.668yun.top/c/gMb9tWk5P1fp/炎霄.js"
+      //xyr
     },
     {
       "key": "火云",
@@ -191,6 +188,7 @@
       "type": 3,
       "jar": "https://gitee.com/zengjing0620/tvbox/raw/jar/spider.jar",
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/hy.js"
+      //ts
     },
     {
       "key": "四叶草",
