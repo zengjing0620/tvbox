@@ -1551,6 +1551,16 @@
       "url": "http://82.156.243.185:33389/fwc.m3u"
     },
     {
+      "name": "IPTV直播",
+      "type": 0,
+      "url": "https://pan.uvqzu.cn/f/0meTP/IPTV4.7.txt"
+    },
+    {
+      "name": "电视家重生",
+      "type": 0,
+      "url": "https://gh-proxy.com/raw.githubusercontent.com/zengjing0620/tvbox/refs/heads/main/dsjcs.txt"
+    },
+    {
       "name": "宝藏TV直播",
       "type": 0,
       "url": "https://cnb.cool/fgvss/dszb1/-/git/raw/main/zbtv30.txt"
