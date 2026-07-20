@@ -131,6 +131,13 @@
       "ext": "http://cmsyun2.qijiyun.vip/api.php/app/"
     },
     {
+      "key": "飞娱影视",
+      "name": "飞娱｜4k",
+      "type": 3,
+      "jar": "https://gh-proxy.com/raw.githubusercontent.com/IY-CPU/IY/main/spider.jar",
+      "api": "csp_Feiyu"
+    },
+    {
       "key": "无极99",
       "name": "无极丨4K",
       "type": 3,
