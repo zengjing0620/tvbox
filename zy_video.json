@@ -5,7 +5,7 @@
   "sites": [
     {
       "key": "豆瓣",
-      "name": "0708优化直播内容",
+      "name": "0722优化直播内容",
       "type": 3,
       "api": "csp_Douban",
       "searchable": 0
@@ -1549,6 +1549,24 @@
       "name": "美加墨世界杯专属信号",
       "type": 0,
       "url": "http://82.156.243.185:33389/fwc.m3u"
+    },
+	{
+      "name": "四川",
+      "type": 0,
+      "playerType": 2,
+      "url": "http://iptv.cqshushu.com/index.php?s=BevA3wTv3lin0uxEqZizQA&t=multicast&channels=1&format=m3u"
+    },
+    {
+      "name": "广东",
+      "type": 0,
+      "playerType": 2,
+      "url": "http://iptv.cqshushu.com/index.php?s=LAyXtCP51tX8hrTlzNSaWA&t=multicast&channels=1&format=m3u"
+    },
+    {
+      "name": "河南",
+      "type": 0,
+      "playerType": 2,
+      "url": "http://iptv.cqshushu.com/index.php?s=8p3D8mnibV8DNbr1h_axUg&t=multicast&channels=1&format=m3u"
     },
     {
       "name": "IPTV直播",
