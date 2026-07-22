@@ -5,7 +5,7 @@
   "sites": [
     {
       "key": "豆瓣",
-      "name": "0722优化直播内容",
+      "name": "0722增加直播内容",
       "type": 3,
       "api": "csp_Douban",
       "searchable": 0
@@ -1545,18 +1545,36 @@
     }
   ],
   "lives": [
-    {
-      "name": "四川全网通",
+	{
+      "name": "四川广电",
       "type": 0,
       "playerType": 2,
       "url": "https://gh-proxy.com/raw.githubusercontent.com/zengjing0620/tvbox/refs/heads/main/scgd.txt"
       //"url": "http://iptv.cqshushu.com/index.php?s=BevA3wTv3lin0uxEqZizQA&t=multicast&channels=1&format=m3u"
     },
     {
-      "name": "河南",
+      "name": "四川组播",
+      "type": 0,
+      "playerType": 2,
+	  "url": "http://iptv.cqshushu.com/index.php?s=BevA3wTv3lin0uxEqZizQA&t=multicast&channels=1&format=m3u"
+    },
+    {
+      "name": "河南组播",
       "type": 0,
       "playerType": 2,
       "url": "http://iptv.cqshushu.com/index.php?s=8p3D8mnibV8DNbr1h_axUg&t=multicast&channels=1&format=m3u"
+    },
+    {
+      "name": "广东组播",
+      "type": 0,
+      "playerType": 2,
+      "url": "http://iptv.cqshushu.com/index.php?s=VnT98mTs8EL2X94q7Oca3g&t=multicast&channels=1&format=m3u"
+    },
+    {
+      "name": "山东组播",
+      "type": 0,
+      "playerType": 2,
+      "url": "http://iptv.cqshushu.com/index.php?s=mtPBQfGf2xBPlZdUoAe9gg&t=multicast&channels=1&format=m3u"
     },
     {
       "name": "IPTV直播",
