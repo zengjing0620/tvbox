@@ -1565,12 +1565,6 @@
       "url": "https://raw.giteeusercontent.com/zengjing0620/tvbox/raw/zb/jsdx.m3u"
     },
     {
-      "name": "云南电信组播",
-      "type": 0,
-      "playerType": 2,
-      "url": "https://raw.giteeusercontent.com/zengjing0620/tvbox/raw/zb/yndx.m3u"
-    },
-    {
       "name": "辽宁联通组播",
       "type": 0,
       "playerType": 2,
