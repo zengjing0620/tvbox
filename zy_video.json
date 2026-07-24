@@ -1552,6 +1552,12 @@
       "url": "https://gh-proxy.com/raw.githubusercontent.com/zengjing0620/tvbox/refs/heads/main/scgd.txt"
       //"url": "http://iptv.cqshushu.com/index.php?s=BevA3wTv3lin0uxEqZizQA&t=multicast&channels=1&format=m3u"
     },
+	 {
+      "name": "四川广电测试",
+      "type": 0,
+      "playerType": 2,
+      "url": "https://d.kstore.dev/download/16458/zb/scgd.txt"
+    },
 	{
       "name": "广东电信组播",
       "type": 0,
