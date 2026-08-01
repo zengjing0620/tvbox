@@ -5,7 +5,7 @@
   "sites": [
     {
       "key": "豆瓣",
-      "name": "0728优化点播接口",
+      "name": "0801新增站点，修复厂长",
       "type": 3,
       "api": "csp_Douban",
       "searchable": 0
@@ -20,7 +20,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://v.rbotv.cn"
-      //多多
+      //dd
     },
     {
       "key": "剧评",
@@ -30,7 +30,7 @@
       "playerType": 1,
       "jar": "https://ncstatic.clewm.net/rsrc/2025/0915/15/e210975c2c794cbc8bb1839b54ac213e.png;md5;939FFBC2941A28CA533F2653FA4B449E",
       "ext": "7lj763gg402i7942463j9j9jh8579590k3hjii5gi4i73l2k5l"
-      //欧歌
+      //ouge
     },
 
     {
@@ -115,6 +115,34 @@
       "ext": "http://172.247.227.203:25321/mtys.php"
       //xm
     },
+        {
+      "key": "Osstexll",
+      "name": "八戒┃影视",
+      "type": 3,
+      "api": "csp_Tounimabi",
+      "jar": "https://gitee.com/zengjing0620/tvbox/raw/jar/xmxl.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": ""
+    },
+        {
+      "key": "云朵影视APP",
+      "name": "云朵┃影视",
+      "type": 3,
+      "api": "csp_AppYd",
+      "jar": "https://gitee.com/zengjing0620/tvbox/raw/jar/xmxl.jar",
+      "ext": {
+        "host": "https://ds3xy2yunsa.xyz",
+        "finger": "SF-F5F11CB15897115AE6BCFE063C288F730CA865588F572C780A3E8477D0DD3776",
+        "updateId": "175070c3-075c-468b-950a-bf575769f4f1",
+        "deviceBrand": "vivo",
+        "deviceModel": "V2309A",
+        "pkg": "com.tvcloud.io",
+        "sk": "SK-sk_13oXDZ7u9j2Tk1c0cawWVFfO",
+        "ver": "1"
+      }
+    },
     {
       "key": "葫芦",
       "name": "葫芦┃影视",
@@ -125,13 +153,16 @@
       //xm
     },
     {
-      "key": "csp_Czsapp",
+      "key": "厂长",
       "name": "厂长┃影视",
       "type": 3,
-      "jar": "https://zt-biz-oss.adnonstop.cn/report/20260618/16/020260618164701_5033_4624434160.jpg;md5;77890fde5c49caf33c5c0a0beaf524a3",
-      "api": "csp_Czsapp",
-      "ext": "https://www.4kcz.com"
-      //xm
+      "api": "csp_NewCzGuard",
+      "jar": "https://gitee.com/zengjing0620/tvbox/raw/jar/fty.jpg",
+      "timeout": 10,
+      "playerType": 2,
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
     },
     {
       "key":"pianba",
