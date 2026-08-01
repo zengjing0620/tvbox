@@ -143,6 +143,19 @@
         "ver": "1"
       }
     },
+	{
+      "key": "八天App",
+      "name": "八天┃影视",
+      "type": 3,
+      "jar": "http://xz.rihou.cc:88/xz/api.php/vox.jar;md5;9113227297953de08c0bd412e1064748",
+      "searchable": 1,
+      "changeable": 1,
+      "api": "csp_AppGet",
+      "ext": {
+        "host": "https://dy.8ttv.cn/",
+        "datakey": "1111111111111111"
+      }//VOX
+    },
     {
       "key": "葫芦",
       "name": "葫芦┃影视",
