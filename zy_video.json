@@ -5,14 +5,14 @@
   "sites": [
     {
       "key": "豆瓣",
-      "name": "0907新增并修复影视接口",
+      "name": "0907优化点播接口",
       "type": 3,
       "api": "csp_Douban",
       "searchable": 0
     },
     {
       "key": "热播",
-      "name": "热播┃优质",
+      "name": "热播┃无广",
       "type": 3,
       "jar": "https://ncstatic.clewm.net/rsrc/2026/0508/10/56d0b667615145949789418bff9f22a5.png;md5;B63A0EB8852BB7AB06500C424CCC3DAE",
       "api": "csp_TianTian",
@@ -24,7 +24,7 @@
     },
     {
       "key": "剧评",
-      "name": "剧评┃优质",
+      "name": "剧评┃无广",
       "type": 3,
       "api": "csp_Jpys",
       "playerType": 1,
@@ -32,24 +32,20 @@
       "ext": "7lj763gg402i7942463j9j9jh8579590k3hjii5gi4i73l2k5l"
       //欧歌
     },
-
     {
-      "key": "csp_GuaZi1",
-      "name": "瓜子┃优质",
+      "name": "瓜子┃无广",
+      "key": "Guazi",
       "type": 3,
       "api": "csp_GuaziAmns",
+      "jar": "https://gitee.com/zengjing0620/tvbox/raw/jar/aowu.png",
       "searchable": 1,
-      "filterable": 1,
       "quickSearch": 1,
-      "ext": {
-        "sites": "",
-        "filters": "https://file.icve.com.cn/file_doc/822/528/CD984013F5776F759DFC815995F87BFB.aowu"
-      },
-      "jar": "https://gitee.com/zengjing0620/tvbox/raw/jar/aowu.png"
+      "changeable": 0,
+      "ext": "Guazi"
     },
-{
+	{
       "key": "360资源",
-      "name": "360┃影视",
+      "name": "360┃无广",
       "type": 1,
       "api": "https://360zy.com/api.php/provide/vod",
       "searchable": 1,
@@ -97,7 +93,7 @@
     },
     {
       "key": "爱影视",
-      "name": "爱影┃影视",
+      "name": "爱影┃无广",
       "type": 3,
       "api": "csp_WhaleApp",
       "jar": "https://gitee.com/zengjing0620/tvbox/raw/jar/xmxl.jar",
@@ -112,7 +108,7 @@
     },
     {
       "key": "麦田",
-      "name": "麦田┃影视",
+      "name": "麦田┃无广",
       "type": 3,
       "jar": "https://zt-biz-oss.adnonstop.cn/report/20260618/16/020260618164701_5033_4624434160.jpg;md5;77890fde5c49caf33c5c0a0beaf524a3",
       "api": "csp_AppV6",
@@ -121,7 +117,7 @@
     },
         {
       "key": "Osstexll",
-      "name": "八戒┃影视",
+      "name": "八戒┃无广",
       "type": 3,
       "api": "csp_Tounimabi",
       "jar": "https://gitee.com/zengjing0620/tvbox/raw/jar/xmxl.jar",
@@ -129,23 +125,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": ""
-    },
-        {
-      "key": "云朵影视APP",
-      "name": "云朵┃影视",
-      "type": 3,
-      "api": "csp_AppYd",
-      "jar": "https://gitee.com/zengjing0620/tvbox/raw/jar/xmxl.jar",
-      "ext": {
-        "host": "https://ds3xy2yunsa.xyz",
-        "finger": "SF-F5F11CB15897115AE6BCFE063C288F730CA865588F572C780A3E8477D0DD3776",
-        "updateId": "175070c3-075c-468b-950a-bf575769f4f1",
-        "deviceBrand": "vivo",
-        "deviceModel": "V2309A",
-        "pkg": "com.tvcloud.io",
-        "sk": "SK-sk_13oXDZ7u9j2Tk1c0cawWVFfO",
-        "ver": "1"
-      }
     },
     {
       "key": "一个影视",
