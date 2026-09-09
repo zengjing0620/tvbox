@@ -5,7 +5,7 @@
   "sites": [
     {
       "key": "豆瓣",
-      "name": "0907优化点播接口",
+      "name": "0910逐步优化接口标识",
       "type": 3,
       "api": "csp_Douban",
       "searchable": 0
@@ -136,7 +136,7 @@
     },   
     {
       "key": "免扫4K",
-      "name": "高清┃秒播",
+      "name": "高清┃无广",
       "type": 3,
       "jar": "https://ncstatic-file.clewm.net/rsrc/2026/0416/20/1fe667cd217a0c314b8ca59310dbf45d.jpg;md5;a4f403a000bc5e4ebdd9da27fcb05852",
       "api": "csp_AppV6",
@@ -146,7 +146,7 @@
     },
     {
       "key": "戒",
-      "name": "视界┃影视",
+      "name": "视界┃无广",
       "type": 3,
       "jar": "https://ncstatic.clewm.net/rsrc/2026/0508/10/56d0b667615145949789418bff9f22a5.png;md5;B63A0EB8852BB7AB06500C424CCC3DAE",
       "api": "https://yydsys.top/duo/js/jys.js",
@@ -179,7 +179,7 @@
     },
     {
       "key": "葫芦",
-      "name": "葫芦┃影视",
+      "name": "葫芦┃无广",
       "type": 3,
       "jar": "https://zt-biz-oss.adnonstop.cn/report/20260618/16/020260618164701_5033_4624434160.jpg;md5;77890fde5c49caf33c5c0a0beaf524a3",
       "api": "csp_AppGet",
@@ -245,16 +245,20 @@
       "ext": "rfOb1uAWbkRHp7hdxprG9un3+SPC3Nbv1SI/b5LtAUhbYkFU/DFvsLBvd/oV3cA4uGiCZNFRz3ln6nh5Q+AgDZiM5KrCAiO7S7SVzv31EG78jVB4JEMNrMPzTgWqRZdMTdR1smBWWwru"
     },
     {
-      "key": "剧圈",
-      "name": "剧圈┃影视",
+      "key": "剧圈99",
+      "name": "剧圈丨APP",
       "type": 3,
-      "api": "csp_AppSxGuard",
-      "jar": "https://gitee.com/zengjing0620/tvbox/raw/jar/fty.jpg",
-      "timeout": 10,
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "rfOX1voDIQhH8epBwpmIsuSluiuZl4+/lm1iJsy3HwNWMxpf9CY77fshI+kByoxy7DyPatUZ1jk0ty1p"
+      "api": "csp_App99",
+      "jar": "https://gitee.com/zengjing0620/tvbox/raw/jar/ouge.jpg",
+      "ext": {
+        "host": "http://124.221.3.182:19987/app/bn",
+        "appkey": "d1f0c269eab74d93821fffc9befdbbba",
+        "versionName": "1.2.0",
+        "name": "剧圈圈",
+        "package": "com.qingtangxiaozhuan.xyz",
+        "buildNumber": "2002",
+        "buildSignature": "054FA8DDA4319C6B6A9B954CA5777541C993F00B1B0BD4394F7EDE48184C4594"
+      }
     },
     {
       "key":"pianba",
