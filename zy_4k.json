@@ -32,107 +32,18 @@
       }
     },
     {
-      "key": "PianKu8",
-      "name": "片库｜4K",
-      "type": 3,
-      "api": "csp_PianKu8",
-      "jar": "https://gitee.com/zengjing0620/tvbox/raw/jar/moyu.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://qkys.qukanwh.com"
-    },
-    {
-      "key": "huaisang",
-      "name": "怀桑｜4K",
-      "type": 3,
-      "api": "csp_AppQi",
-      "jar": "https://gitee.com/zengjing0620/tvbox/raw/jar/moyu.jar",
-      "searchable": 1,
-      "changeable": 1,
-      "ext": "AdYEovlEKsDy77+R58YGahWCxrDZyBxExcQNC2NSeH0n1b5mu6tvh8b4Eh0RCpoPF6eivKdrR1Hsb8X4sSVBS8zF6jkwLW+wze9yh+hSY5iimm4gM9mAtmt0obTi+6Iox/Jp4GCsN4MQyFebMK162SKnILklpXc1UMiJv9gnPOe5aOPUxCftL+x7/UGhBdFYWIegpiHvKeavUtCUkhxtDyC8KqVVPPW0StI5GdmUA3WBbnnrNiKqNc5GBmrffd6pDN+Cf9IIjzNNvos/5KXJmBbe/baAzTLkoafeIoDhO451"
-    },
-    {
-      "key": "csp_PianKu8",
-      "name": "山楂┃4K",
-      "type": 3,
-      "jar": "https://gitee.com/zengjing0620/tvbox/raw/jar/xmxl.jar",
-      "api": "csp_PianKu8"
-    },
-    {
-      "key": "三秋影视",
-      "name": "三秋｜4K",
-      "type": 3,
-      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/spider.jar",
-      "api": "csp_App3Q"
-    },
-    {
-      "key": "爱营",
-      "name": "爱影｜4K",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/get.js",
-      "ext": {
-        "host": "https://aysappto.oss-cn-chengdu.aliyuncs.com/q23.txt",
-        "key": "nzEqOgYk3QzHuEP8",
-        "init": "V122",
-        "api": 2,
-        "ua": "okhttp/3.10.0"
-      },
-      "categories": [
-        "动漫",
-        "电视剧",
-        "电影",
-        "综艺",
-        "短剧",
-        "体育",
-        "少儿",
-        "纪录片"
-      ]
-    },
-    {
-      "key": "BuBu",
-      "name": "布布┃4K",
-      "type": 3,
-      "api": "csp_BuBu",
-      "jar": "https://gitee.com/zengjing0620/tvbox/raw/jar/moyu.jar",
-      "searchable": 1,
-      "changeable": 1,
-      "filterable": 1
-    },
-    {
-      "key": "3QQQ",
-      "name": "大鹅┃4K",
-      "type": 3,
-      "timeout": 15,
-      "jar": "https://gitee.com/zengjing0620/tvbox/raw/jar/xmxl.jar",
-      "api": "csp_App3Q",
-      "ext": "https://asd123sx23xdacsx.top"
-    },
-    {
-      "key": "极影",
-      "name": "极影｜4K测试",
-      "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/jy.js",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "http://cmsyun2.qijiyun.vip/api.php/app/"
-    },
-    {
-      "key": "飞娱影视",
-      "name": "飞娱｜4k",
+      "key": "云朵",
+      "name": "云朵｜4K",
       "type": 3,
       "jar": "https://gh-proxy.com/raw.githubusercontent.com/IY-CPU/IY/main/spider.jar",
-      "api": "csp_Feiyu"
+      "api": "https://gh-proxy.com/raw.githubusercontent.com/IY-CPU/IY/main/lib/yd.py"
     },
     {
-      "key": "zhiqiu",
-      "name": "知秋┃4K",
+      "key": "多多",
+      "name": "多多｜4K",
       "type": 3,
-      "jar": "https://gitee.com/zengjing0620/tvbox/raw/jar/moyu.jar",
-      "api": "csp_zhiqiu",
-      "searchable": 1,
-      "ext": "http://www.小不点.com/api//2026/zhiqiu.php"
+      "jar": "https://gh-proxy.com/raw.githubusercontent.com/IY-CPU/IY/main/spider.jar",
+      "api": "https://gh-proxy.com/raw.githubusercontent.com/IY-CPU/IY/main/lib/dd.py"
     },
     {
       "key": "剧圈99",
@@ -287,6 +198,13 @@
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js",
       "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/茫茫.png"
     }
+    {
+      "key": "bl",
+      "name": "小哩｜4K",
+      "type": 3,
+      "jar": "https://gh-proxy.com/raw.githubusercontent.com/IY-CPU/IY/main/spider.jar",
+      "api": "https://gh-proxy.com/raw.githubusercontent.com/IY-CPU/IY/main/lib/bl.py"
+    },
   ],
   "parses": [
     {
