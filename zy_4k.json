@@ -36,12 +36,20 @@
       "name": "4K影视｜4K",
       "type": 3,
       "api": "https://fastlink.cokey.xyz/f/AAvgsm/4K%E5%BD%B1%E8%A7%86.py"
+      //doubao
     },
     {
       "key": "青麦",
       "name": "青麦｜4K",
       "type": 3,
       "api": "https://mpimg.cn/down.php/ae21421b9e2ae3f513f4518db5ca030c.py"
+    },
+    {
+      "key": "咕噜",
+      "name": "咕噜",
+      "type": 3,
+      "api": "https://mpimg.cn/down.php/2542f809bfd6602273ad747965ce77f9.py",
+      "searchable": 1
     },
     {
       "key": "云朵",
