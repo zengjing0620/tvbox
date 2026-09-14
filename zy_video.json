@@ -186,6 +186,20 @@
       "ext": "https://mobile-1251126973.cos.ap-guangzhou.myqcloud.com/maccos_config.txt|8R33VQSxzmCaHpEX|V122|okhttp/3.10.0"
       //xm
     },
+	{
+      "key": "腾爱优b站",
+      "name": "腾爱优b站┃无广",
+      "type": 3,
+      "api": "https://pan.29o.cn/down.php/35c7a3aab09403c05ff7e008367baa85.js"
+      //doubao
+    },
+    {
+      "key": "剧下饭",
+      "name": "剧下饭┃影视",
+      "type": 3,
+      "api": "https://mpimg.cn/down.php/ca87da089f336f8e507562ecfe213e25.py"
+      //doubao
+    },
     {
       "key": "厂长",
       "name": "厂长┃影视",
