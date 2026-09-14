@@ -1,6 +1,6 @@
 {
   "spider": "./lib/xs.jar",
-  "wallpaper": "https://wp.upx8.com/api.php",
+  "wallpaper": "https://api.likepoems.com/img/bing",
   "warningText": "温馨提示:\n盒子搬运工接口长期更新维护，仅用于自用研究测试 \n切勿传播、贩卖！",
   "lives": [],
   "sites": [
@@ -197,14 +197,14 @@
       "type": 3,
       "api": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js",
       "ext": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/茫茫.png"
-    }
+    },
     {
       "key": "bl",
       "name": "小哩｜4K",
       "type": 3,
       "jar": "https://gh-proxy.com/raw.githubusercontent.com/IY-CPU/IY/main/spider.jar",
       "api": "https://gh-proxy.com/raw.githubusercontent.com/IY-CPU/IY/main/lib/bl.py"
-    },
+    }
   ],
   "parses": [
     {
