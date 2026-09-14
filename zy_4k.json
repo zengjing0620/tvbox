@@ -52,6 +52,12 @@
       "searchable": 1
     },
     {
+      "key": "哔幕",
+      "name": "哔哩4K",
+      "type": 3,
+      "api": "https://meow.668yun.top/api/s/unDwdM3nZBachMqnrGmG3bQDcvsubkpb/哔哩影视.py"
+    },
+    {
       "key": "云朵",
       "name": "云朵｜4K",
       "type": 3,
