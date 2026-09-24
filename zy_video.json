@@ -5,7 +5,7 @@
   "sites": [
     {
       "key": "豆瓣",
-      "name": "0910逐步优化接口标识",
+      "name": "0924整合4K部分资源",
       "type": 3,
       "api": "csp_Douban",
       "searchable": 0
@@ -234,6 +234,13 @@
       "changeable": 0,
       "ext": "rfOIzPkSUkANv6AT2prC8en3+TzKx9TnlT8vaY37HhtYfAQe6C5xqrVuJPhQwYV6r3eRdMBGm3Qm6Th+BushR86B6KqJGXDsHazHw7alBG/7zUxkN1tK/NypRxnpBNoeUtpw4jcCGhytI75yO4g4zG6SOPA0RSwhksM0IF2friAkrHCWoW3v+0mdw6sjz4t4XB1Df7yL/R5cfaA/5LQYq3I8OkvMrJMU9Q1P7JXwx7NSF2zTyH/ANVmZ4u5m567DW1KVG7OuQjXPjZiOXTYk0+wjpfBRTf19yIq6q/C76k2Fs80joAMPw0ueDR+QHxtuDcTom2rmHkI1Fonkzi6BotbpUcbSi4PiIgmfdbvVwhG6Z+i4nvt+IYa48l5aLA7PLgDiERpuOs31aHaXlgFswT87XyTb8QaF4CuzKWJuXptwNTjvXAS9KHdxH49Ay+hfBAB2bCvUf4CMoldF2wZUv0mI2qY966erFpOFg+FOc7t88EUH8j8ACXQtHJiKC9RQ+SaLIF0="
     },
+	{
+      "key": "青麦",
+      "name": "青麦┃影视",
+      "type": 3,
+	  "searchable": 1,
+      "api": "https://mpimg.cn/down.php/ae21421b9e2ae3f513f4518db5ca030c.py"
+    },
     {
       "key": "视界",
       "name": "茉莉1┃影视",
@@ -346,7 +353,7 @@
       "name": "师兄┃影视",
       "key": "AppV6Dxs",
       "type": 3,
-      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/awdm2.png",
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/awdm2.png",
       "api": "csp_AppV6Amns",
       "searchable": 1,
       "filterable": 1,
@@ -358,7 +365,7 @@
       "name": "特狗┃影视",
       "key": "AppV6Tg",
       "type": 3,
-      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/awdm2.png",
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/awdm2.png",
       "api": "csp_AppV6Amns",
       "searchable": 1,
       "filterable": 1,
@@ -415,11 +422,59 @@
       "api": "http://550.3vcn.work/16.js",
       "ext": "http://550.3vcn.work/2400.js"
     },
+	{
+      "key": "橘汁",
+      "name": "橘汁｜4K",
+      "type": 3,
+      "api": "https://mpimg.cn/down.php/9a77fbfdf66962bb95202e05bc5d551f.py"
+	  //doubao
+    },
+    {
+      "key": "4K影视",
+      "name": "4K影视｜4K",
+      "type": 3,
+      "api": "https://fastlink.cokey.xyz/f/AAvgsm/4K%E5%BD%B1%E8%A7%86.py"
+      //doubao
+    },
+	{
+      "key": "咕噜",
+      "name": "咕噜｜4K",
+      "type": 3,
+      "api": "https://mpimg.cn/down.php/2542f809bfd6602273ad747965ce77f9.py",
+      "searchable": 1
+    },
+    {
+      "key": "哔幕",
+      "name": "哔哩｜4K",
+      "type": 3,
+      "api": "https://meow.668yun.top/api/s/unDwdM3nZBachMqnrGmG3bQDcvsubkpb/哔哩影视.py"
+    },
+	  {
+      "key": "藤藤",
+      "name": "小腾｜4K",
+      "type": 3,
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js",
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/藤藤.png"
+    },
+    {
+      "key": "茫茫",
+      "name": "小芒｜4K",
+      "type": 3,
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js",
+      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/茫茫.png"
+    },
+    {
+      "key": "bl",
+      "name": "小哩｜4K",
+      "type": 3,
+      "jar": "https://gh-proxy.org/raw.githubusercontent.com/IY-CPU/IY/main/spider.jar",
+      "api": "https://gh-proxy.org/raw.githubusercontent.com/IY-CPU/IY/main/lib/bl.py"
+    },
     {
       "key": "华数",
       "name": "华数┃APP",
       "type": 3,
-      "api": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/%E5%8D%8E%E6%95%B0.py",
+      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/%E5%8D%8E%E6%95%B0.py",
       "changeable": 1
     },
     {
@@ -1207,7 +1262,7 @@
       "key": "哔哩合集",
       "name": "哔哩｜合集",
       "type": 3,
-      "jar": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/spider.jar",
+      "jar": "https://gh-proxy.org/https://raw.githubusercontent.com/IY-CPU/IY/main/spider.jar",
       "api": "csp_Bili",
       "searchable": 1,
       "quickSearch": 0,
@@ -1218,8 +1273,8 @@
         "ratio": 1.433
       },
       "ext": {
-        "json": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/哔哩合集.png",
-        "cookie": "https://gh-proxy.com/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/blc.png"
+        "json": "https://gh-proxy.org/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/哔哩合集.png",
+        "cookie": "https://gh-proxy.org/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/blc.png"
       }
     }
   ],
@@ -1654,13 +1709,13 @@
       "name": "四川广电",
       "type": 0,
       "playerType": 2,
-      "url": "https://gh-proxy.com/raw.githubusercontent.com/zengjing0620/tvbox/refs/heads/main/scgd.txt"
+      "url": "https://gh-proxy.org/raw.githubusercontent.com/zengjing0620/tvbox/refs/heads/main/scgd.txt"
       //"url": "http://iptv.cqshushu.com/index.php?s=BevA3wTv3lin0uxEqZizQA&t=multicast&channels=1&format=m3u"
     },
     {
       "name": "电视家重生",
       "type": 0,
-      "url": "https://gh-proxy.com/raw.githubusercontent.com/zengjing0620/tvbox/refs/heads/main/dsjcs.txt"
+      "url": "https://gh-proxy.org/raw.githubusercontent.com/zengjing0620/tvbox/refs/heads/main/dsjcs.txt"
     },
     {
       "name": "宝藏TV直播",
