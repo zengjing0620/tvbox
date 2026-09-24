@@ -1701,16 +1701,17 @@
   ],
   "lives": [
     {
-      "name": "IPTV直播",
+      "name": "XPB源",
       "type": 0,
-      "url": "https://pan.uvqzu.cn/f/0meTP/IPTV4.7.txt"
+      "url": "https://xpb.mhfs.eu.org/HZ.txt",
+      "epg": "https://epg.112114.eu.org/?ch={name}&date={date}"
     },
-	{
-      "name": "四川广电",
+    {
+      "name": "闽粤IPTV",
       "type": 0,
-      "playerType": 2,
-      "url": "https://gh-proxy.org/raw.githubusercontent.com/zengjing0620/tvbox/refs/heads/main/scgd.txt"
-      //"url": "http://iptv.cqshushu.com/index.php?s=BevA3wTv3lin0uxEqZizQA&t=multicast&channels=1&format=m3u"
+      "url": "https://chuxinya.top/f/1r2Wuq/dszb.txt",
+      "ua": "Goiptv/8.8.8",
+      "epg": "https://epg.zbds.top/?ch={name}&date={date}"
     },
     {
       "name": "电视家重生",
@@ -1735,13 +1736,6 @@
       "name": "易发TV直播",
       "type": 1,
       "url": "https://gh-proxy.org/https://raw.githubusercontent.com/fafa002/yf2025/refs/heads/main/yiyifafa.txt"
-    },
-    {
-      "name": "闽粤IPTV",
-      "type": 0,
-      "url": "https://chuxinya.top/f/1r2Wuq/dszb.txt",
-      "ua": "Goiptv/8.8.8",
-      "epg": "https://epg.zbds.top/?ch={name}&date={date}"
     }
   ],
   "hosts": [
