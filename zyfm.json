@@ -206,12 +206,14 @@
     }
   ],
   "sites": [
-   	{
+    {
       "key": "豆瓣",
-      "name": "豆瓣热播推荐",
+      "name": "国庆快乐🥮免费分享",
       "type": 3,
       "api": "csp_Douban",
-      "searchable": 0
+      "jar": "https://gitee.com/KYSY1/dyy/raw/master/bh2601251.jar",
+      "searchable": 0,
+      "changeable": 1
     },
 	{
       "key": "热播",
