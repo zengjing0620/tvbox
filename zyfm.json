@@ -207,6 +207,13 @@
   ],
   "sites": [
    	{
+      "key": "豆瓣",
+      "name": "豆瓣热播推荐",
+      "type": 3,
+      "api": "csp_Douban",
+      "searchable": 0
+    },
+	{
       "key": "热播",
       "name": "热播┃影视",
       "type": 3,
@@ -323,21 +330,6 @@
        //潇洒
     },
     {
-      "key": "爱影视",
-      "name": "爱影┃无广",
-      "type": 3,
-      "api": "csp_WhaleApp",
-      "jar": "https://gitee.com/zengjing0620/tvbox/raw/jar/xmxl.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "proxy": "https://www.tangsan.fun/jingyu.php",
-        "site": "aiyingshi",
-        "pic": "http://222.211.75.252:23433"
-      }
-    },
-    {
       "key": "麦田",
       "name": "麦田┃无广",
       "type": 3,
@@ -356,14 +348,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": ""
-    },
-    {
-      "key": "一个影视",
-      "name": "一哥┃影视",
-      "type": 3,
-      "jar": "https://ncstatic.clewm.net/rsrc/2026/0508/10/56d0b667615145949789418bff9f22a5.png;md5;B63A0EB8852BB7AB06500C424CCC3DAE",
-      "api": "https://yydsys.top/duo/js/一哥.js"
-      //dd
     },
     {
       "key": "csp_Nmvod_QJ",
