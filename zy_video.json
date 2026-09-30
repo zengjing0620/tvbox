@@ -125,15 +125,7 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": ""
-    },
-    {
-      "key": "一个影视",
-      "name": "一哥┃影视",
-      "type": 3,
-      "jar": "https://ncstatic.clewm.net/rsrc/2026/0508/10/56d0b667615145949789418bff9f22a5.png;md5;B63A0EB8852BB7AB06500C424CCC3DAE",
-      "api": "https://yydsys.top/duo/js/一哥.js"
-      //dd
-    },   
+    }, 
     {
       "key": "免扫4K",
       "name": "高清┃无广",
