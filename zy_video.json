@@ -5,7 +5,7 @@
   "sites": [
     {
       "key": "豆瓣",
-      "name": "0924整合4K部分资源",
+      "name": "1006调整部分失效资源",
       "type": 3,
       "api": "csp_Douban",
       "searchable": 0
@@ -92,21 +92,6 @@
       ]
     },
     {
-      "key": "爱影视",
-      "name": "爱影┃无广",
-      "type": 3,
-      "api": "csp_WhaleApp",
-      "jar": "https://gitee.com/zengjing0620/tvbox/raw/jar/xmxl.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "proxy": "https://www.tangsan.fun/jingyu.php",
-        "site": "aiyingshi",
-        "pic": "http://222.211.75.252:23433"
-      }
-    },
-    {
       "key": "麦田",
       "name": "麦田┃无广",
       "type": 3,
@@ -137,27 +122,6 @@
       //dd
     },
     {
-      "key": "戒",
-      "name": "视界┃无广",
-      "type": 3,
-      "jar": "https://ncstatic.clewm.net/rsrc/2026/0508/10/56d0b667615145949789418bff9f22a5.png;md5;B63A0EB8852BB7AB06500C424CCC3DAE",
-      "api": "https://yydsys.top/duo/js/jys.js",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "changeable": 0
-      //dd
-    },
-    {
-      "key": "KK",
-      "name": "欧克┃影视",
-      "type": 3,
-      "jar": "https://ncstatic.clewm.net/rsrc/2026/0508/10/56d0b667615145949789418bff9f22a5.png;md5;B63A0EB8852BB7AB06500C424CCC3DAE",
-      "api": "https://yydsys.top/duo/py/可可影视.py",
-      "searchable": 1
-      //dd
-    },
-    {
       "key": "海绵",
       "name": "海绵┃影视",
       "type": 3,
@@ -183,13 +147,6 @@
       "name": "腾爱优b站┃无广",
       "type": 3,
       "api": "https://pan.29o.cn/down.php/35c7a3aab09403c05ff7e008367baa85.js"
-      //doubao
-    },
-    {
-      "key": "剧下饭",
-      "name": "剧下饭┃影视",
-      "type": 3,
-      "api": "https://mpimg.cn/down.php/ca87da089f336f8e507562ecfe213e25.py"
       //doubao
     },
     {
@@ -414,59 +371,75 @@
       "api": "http://550.3vcn.work/16.js",
       "ext": "http://550.3vcn.work/2400.js"
     },
-	{
+    {
       "key": "橘汁",
-      "name": "橘汁｜4K",
+      "name": "橘汁｜4K线路",
       "type": 3,
-      "api": "https://mpimg.cn/down.php/9a77fbfdf66962bb95202e05bc5d551f.py"
-	  //doubao
+      "api": "csp_AppDrama",
+      "jar": "https://gh-proxy.com/raw.githubusercontent.com/IY-CPU/IY/main/spider.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "appName": "橘汁",
+        "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCr8SzZhjYy+rsya1K09t8d2K50pWFoBkgUqMpKOiW+3IEVKd4eTdvg9RSOjQ82kypL6R9BnsmrS1V8s4PVDwjQbUtYhTPPC9Hz16qY7rpD6m0d2vr09/UpWQ5uOy9PR0QTrsioveZ+DIe9jc3C+zBCu/kZSY/R8stwJoiitki3gwIDAQAB",
+        "dataKey": "OW1WBLFZCLJ0WTNJQMRSZ2DYSGNBPT0=",
+        "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
+        "pkg": "com.mxj.wylcjbxyx",
+        "host": "",
+        "site": "https://123-1349250429.cos.ap-shanghai.myqcloud.com/app.txt",
+        "version": "3.0.2.4",
+        "decrypt": "1"
+      }//ts
     },
     {
-      "key": "4K影视",
-      "name": "4K影视｜4K",
+      "key": "Luck",
+      "name": "青禾┆4K线路",
       "type": 3,
-      "api": "https://fastlink.cokey.xyz/f/AAvgsm/4K%E5%BD%B1%E8%A7%86.py"
-      //doubao
+      "api": "csp_Luck",
+      "jar": "https://gitee.com/zengjing0620/tvbox/raw/jar/moyu.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://max.moyu666666.top/luck.php"
     },
-	{
+    {
       "key": "咕噜",
-      "name": "咕噜｜4K",
+      "name": "咕噜｜4K线路",
       "type": 3,
-      "api": "https://mpimg.cn/down.php/2542f809bfd6602273ad747965ce77f9.py",
-      "searchable": 1
-    },
-    {
-      "key": "哔幕",
-      "name": "哔哩｜4K",
-      "type": 3,
-      "api": "https://meow.668yun.top/api/s/unDwdM3nZBachMqnrGmG3bQDcvsubkpb/哔哩影视.py"
+      "api": "csp_Gulu",
+      "jar": "https://gh-proxy.com/raw.githubusercontent.com/IY-CPU/IY/main/spider.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+      //ts
     },
 	  {
       "key": "藤藤",
       "name": "小腾｜4K",
       "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js",
-      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/藤藤.png"
+      "api": "https://gh-proxy.com/raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js",
+      "ext": "https://gh-proxy.com/raw.githubusercontent.com/IY-CPU/IY/main/lib/藤藤.png"
     },
     {
       "key": "茫茫",
       "name": "小芒｜4K",
       "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js",
-      "ext": "https://gh-proxy.org/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/茫茫.png"
+      "api": "https://gh-proxy.com/raw.githubusercontent.com/IY-CPU/IY/main/lib/drpy2.min.js",
+      "ext": "https://gh-proxy.com/raw.githubusercontent.com/IY-CPU/IY/main/lib/茫茫.png"
     },
     {
       "key": "bl",
       "name": "小哩｜4K",
       "type": 3,
-      "jar": "https://gh-proxy.org/raw.githubusercontent.com/IY-CPU/IY/main/spider.jar",
-      "api": "https://gh-proxy.org/raw.githubusercontent.com/IY-CPU/IY/main/lib/bl.py"
+      "jar": "https://gh-proxy.com/raw.githubusercontent.com/IY-CPU/IY/main/spider.jar",
+      "api": "https://gh-proxy.com/raw.githubusercontent.com/IY-CPU/IY/main/lib/bl.py"
     },
     {
       "key": "华数",
       "name": "华数┃APP",
       "type": 3,
-      "api": "https://gh-proxy.org/https://raw.githubusercontent.com/IY-CPU/IY/main/lib/%E5%8D%8E%E6%95%B0.py",
+      "api": "https://gh-proxy.com/raw.githubusercontent.com/IY-CPU/IY/main/lib/%E5%8D%8E%E6%95%B0.py",
       "changeable": 1
     },
     {
