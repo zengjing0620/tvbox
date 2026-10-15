@@ -1,14 +1,18 @@
 {
-  "spider": "./lib/xs.jar",
+  "spider": "https://gitee.com/zengjing0620/tvbox/raw/jar/wex.jpg",
   "wallpaper": "https://api.likepoems.com/img/bing",
   "warningText": "温馨提示:\n盒子搬运工接口长期更新维护，仅用于自用研究测试 \n切勿传播、贩卖！",
   "sites": [
-    {
-      "key": "豆瓣",
+	{
+      "key": "Douban",
       "name": "1015更新：增加视频资源，删除失效站点",
       "type": 3,
-      "api": "csp_Douban",
-      "searchable": 0
+      "api": "csp_NewDouBanGuard",
+      "indexs": 1,
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "https://cdn.waimaimingtang.com/file/images/bwc/20260414181247-ae51abfbfe.txt"
     },
     {
       "key": "热播",
@@ -178,6 +182,7 @@
       "name": "青麦┃影视",
       "type": 3,
 	  "searchable": 1,
+      "jar": "https://gitee.com/zengjing0620/tvbox/raw/ys/xs.jar",
       "api": "https://mpimg.cn/down.php/ae21421b9e2ae3f513f4518db5ca030c.py"
     },
     {
@@ -262,6 +267,7 @@
       "key": "骚火影视",
       "name": "骚火┃影视",
       "type": 3,
+      "jar": "https://gitee.com/zengjing0620/tvbox/raw/ys/xs.jar",
       "api": "csp_SaoHuo",
       "ext": "https://shdy5.us"
     },
@@ -269,6 +275,7 @@
       "key": "农民影视",
       "name": "农民┃影视",
       "type": 3,
+      "jar": "https://gitee.com/zengjing0620/tvbox/raw/ys/xs.jar",
       "searchable":1,
       "api": "csp_Wwys",
       "ext": "https://vip.wwgz.cn:5200"
@@ -289,7 +296,7 @@
       "name": "粉猪┃影视",
       "type": 3,
       "api": "csp_WexAppV7Guard",
-      "jar": "https://gitee.com/zengjing0620/tvbox/raw/jar/wex.jpg",
+      //"jar": "https://gitee.com/zengjing0620/tvbox/raw/jar/wex.jpg",
       "searchable": 1,
       "changeable": 0,
       "ext": {
@@ -303,7 +310,7 @@
       "name": "咸鱼┃影视",
       "type": 3,
       "api": "csp_WexAppV7Guard",
-      "jar": "https://gitee.com/zengjing0620/tvbox/raw/jar/wex.jpg",
+      //"jar": "https://gitee.com/zengjing0620/tvbox/raw/jar/wex.jpg",
       "searchable": 1,
       "changeable": 0,
       "ext": {
@@ -317,7 +324,7 @@
       "name": "追剧┃影视",
       "type": 3,
       "api": "csp_WexAppV7Guard",
-      "jar": "https://gitee.com/zengjing0620/tvbox/raw/jar/wex.jpg",
+      //"jar": "https://gitee.com/zengjing0620/tvbox/raw/jar/wex.jpg",
       "searchable": 1,
       "changeable": 0,
       "ext": {
@@ -331,7 +338,7 @@
       "name": "柚子┃影视",
       "type": 3,
       "api": "csp_WexAppV7Guard",
-      "jar": "https://gitee.com/zengjing0620/tvbox/raw/jar/wex.jpg",
+      //"jar": "https://gitee.com/zengjing0620/tvbox/raw/jar/wex.jpg",
       "searchable": 1,
       "changeable": 0,
       "ext": {
@@ -345,7 +352,7 @@
       "name": "太奇┃影视",
       "type": 3,
       "api": "csp_WexAppV7Guard",
-      "jar": "https://gitee.com/zengjing0620/tvbox/raw/jar/wex.jpg",
+      //"jar": "https://gitee.com/zengjing0620/tvbox/raw/jar/wex.jpg",
       "searchable": 1,
       "changeable": 0,
       "ext": {
@@ -359,7 +366,7 @@
       "name": "柿子┃影视",
       "type": 3,
       "api": "csp_WexAppV7Guard",
-      "jar": "https://gitee.com/zengjing0620/tvbox/raw/jar/wex.jpg",
+      //"jar": "https://gitee.com/zengjing0620/tvbox/raw/jar/wex.jpg",
       "searchable": 1,
       "changeable": 0,
       "ext": {
@@ -372,7 +379,7 @@
       "name": "黄人┃影视",
       "type": 3,
       "api": "csp_WexAppV7Guard",
-      "jar": "https://gitee.com/zengjing0620/tvbox/raw/jar/wex.jpg",
+      //"jar": "https://gitee.com/zengjing0620/tvbox/raw/jar/wex.jpg",
       "searchable": 1,
       "changeable": 0,
       "ext": {
@@ -410,6 +417,7 @@
       "name": "华谊┃影视",
       "type": 3,
       "api": "csp_AppDrama",
+      "jar": "https://gitee.com/zengjing0620/tvbox/raw/ys/xs.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
@@ -585,6 +593,7 @@
       "name": "王子｜APP",
       "type": 3,
       "api": "csp_AppGet",
+      "jar": "https://gitee.com/zengjing0620/tvbox/raw/ys/xs.jar",
       "searchable": 1,
       "changeable": 1,
       "ext": {
