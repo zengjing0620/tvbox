@@ -34,7 +34,7 @@
       "changeable": 0
     },
     {
-      "name": "玩偶┃4K",
+      "name": "玩偶┃扫码4K",
       "key": "woWogg",
       "type": 3,
       "api": "csp_WoggAmns",
@@ -44,7 +44,7 @@
       "ext": "woWogg"
     },
     {
-      "name": "木偶┃4K",
+      "name": "木偶┃扫码4K",
       "key": "moWobg",
       "type": 3,
       "api": "csp_WobgAmns",
@@ -54,7 +54,7 @@
       "ext": "moWobg"
     },
     {
-      "name": "花卷┃4K",
+      "name": "花卷┃扫码4K",
       "key": "PanHj",
       "type": 3,
       "api": "csp_PanHjAmns",
@@ -64,7 +64,7 @@
       "ext": "PanHj"
     },
     {
-      "name": "多多┃4K",
+      "name": "多多┃扫码4K",
       "key": "ddWobg",
       "type": 3,
       "api": "csp_WobgAmns",
@@ -74,7 +74,7 @@
       "ext": "ddWobg"
     },
     {
-      "name": "虎斑┃4K",
+      "name": "虎斑┃扫码4K",
       "key": "hbWobg",
       "type": 3,
       "api": "csp_WobgAmns",
@@ -84,7 +84,7 @@
       "ext": "hbWobg"
     },
     {
-      "name": "Sed┃4K",
+      "name": "Sed┃扫码4K",
       "key": "SeedHub",
       "type": 3,
       "api": "csp_SeedHubAmns",
@@ -94,7 +94,7 @@
       "ext": "SeedHub"
     },
     {
-      "name": "观影┃4K",
+      "name": "观影┃扫码4K",
       "key": "Gying",
       "type": 3,
       "api": "csp_GyingAmns",
@@ -103,7 +103,7 @@
       "changeable": 1
     },
     {
-      "name": "原盘┃4K",
+      "name": "原盘┃扫码4K",
       "key": "Zhinan",
       "type": 3,
       "api": "csp_ZhinanAmns",
@@ -113,7 +113,7 @@
       "ext": "Zhinan"
     },
     {
-      "name": "逸动┃4K",
+      "name": "逸动┃扫码4K",
       "key": "SheQuyd",
       "type": 3,
       "api": "csp_SheQuydAmns",
@@ -122,13 +122,153 @@
       "changeable": 1
     },
     {
-      "name": "蜗牛┃4K",
+      "name": "蜗牛┃扫码4K",
       "key": "SheQuwon",
       "type": 3,
       "api": "csp_SheQuwonAmns",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 1
+    },
+    {
+      "key": "玩偶1",
+      "name": "玩偶｜免扫4K",
+      "type": 3,
+      "jar": "https://xpb.mhfs.eu.org/ZJ/XPB/spider20260509.jar",
+      "api": "csp_Wogg",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": {
+        "site": [
+          "https://wogg.xxooo.cf",
+          "https://woggpan.888484.xyz",
+          "https://wogg.333232.xyz",
+          "http://woggpan.xxooo.cf",
+          "https://www.wogg.one"
+        ]
+      },
+      "timeout": 30
+    },
+    {
+      "key": "夸快夸快1",
+      "name": "垮快｜免扫4K",
+      "type": 3,
+      "jar": "https://xpb.mhfs.eu.org/ZJ/XPB/spider20260509.jar",
+      "api": "csp_PanWebShare",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": {
+        "site": [
+          "https://ogkk.nxog.eu.org",
+          "https://ogkk.nxog.fun",
+          "https://woog.歌.de5.net"
+        ]
+      }
+    },
+    {
+      "key": "至臻1",
+      "name": "至臻｜免扫4K",
+      "type": 3,
+      "jar": "https://xpb.mhfs.eu.org/ZJ/XPB/spider20260509.jar",
+      "api": "csp_PanWebShare",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": {
+        "site": [
+          "https://mihdr.top",
+          "https://www.miqk.cc",
+          "https://xiaomiai.site",
+          "https://xiaomi666.fun",
+          "https://www.mihdr.top",
+          "https://www.zhizhenpan.fun"
+        ]
+      },
+      "timeout": 25
+    },
+    {
+      "key": "即刻1",
+      "name": "小飒｜免扫4K",
+      "type": 3,
+      "jar": "https://xpb.mhfs.eu.org/ZJ/XPB/spider20260509.jar",
+      "api": "csp_Jike",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "style": {
+        "type": "list"
+      },
+      "timeout": 25
+    },
+    {
+      "key": "双星1",
+      "name": "双星｜免扫4K",
+      "type": 3,
+      "jar": "https://xpb.mhfs.eu.org/ZJ/XPB/spider20260509.jar",
+      "api": "csp_ShuangXing",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 0,
+      "style": {
+        "type": "list"
+      },
+      "timeout": 25
+    },
+    {
+      "key": "木偶1",
+      "name": "木偶｜免扫4K",
+      "type": 3,
+      "jar": "https://xpb.mhfs.eu.org/ZJ/XPB/spider20260509.jar",
+      "api": "csp_PanWebShare",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": {
+        "site": [
+          "https://123.666291.xyz",
+          "https://666.666291.xyz",
+          "https://www.muou.site",
+          "https://www.muou.asia"
+        ]
+      },
+      "timeout": 25
+    },
+    {
+      "key": "人人1",
+      "name": "云集｜免扫4K",
+      "type": 3,
+      "jar": "https://xpb.mhfs.eu.org/ZJ/XPB/spider20260509.jar",
+      "api": "csp_RenRen",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "timeout": 60
+    },
+    {
+      "key": "欧歌1",
+      "name": "欧歌｜免扫4K",
+      "type": 3,
+      "jar": "https://xpb.mhfs.eu.org/ZJ/XPB/spider20260509.jar",
+      "api": "csp_PanWebShare",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "changeable": 1,
+      "ext": {
+        "site": [
+          "https://woog.nxog.eu.org",
+          "https://woog.nxog.fun",
+          "https://woog.nxog.eu.org",
+          "https://woog.430520.xyz"
+        ]
+      },
+      "timeout": 60
     }
   ],
   "lives": [],
