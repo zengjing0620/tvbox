@@ -5,7 +5,7 @@
   "wallpaper": "http://127.0.0.1:9978/proxy?do=AowuWapper&mode=2",
   "sites": [
     {
-      "name": "网盘扫码授权看真4K",
+      "name": "网盘扫码授权看4K，网速低于300M勿试",
       "key": "Douban",
       "type": 3,
       "api": "csp_DoubanAmns",
