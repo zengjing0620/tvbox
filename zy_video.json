@@ -285,101 +285,26 @@
       "ext": "AppV7Mtq"
     },
     {
-      "key": "AppV7 | 粉猪追剧",
-      "name": "粉猪┃影视",
+      "name": "小柚┃影视",
+      "key": "AppV7Xyz",
       "type": 3,
-      "api": "csp_WexAppV7Guard",
-      "jar": "https://gitee.com/zengjing0620/tvbox/raw/jar/wex.jpg",
+      "api": "csp_AppV7Amns",
+      "jar": "https://gitee.com/zengjing0620/tvbox/raw/jar/aowu.png",
       "searchable": 1,
-      "changeable": 0,
-      "ext": {
-        "config": "AppV7Fz",
-        "proxyImg": false
-      },
-      "timeout": 120
+      "quickSearch": 1,
+      "changeable": 1,
+      "ext": "AppV7Xyz"
     }, 
     {
-      "key": "AppV7 | 咸鱼",
-      "name": "咸鱼┃影视",
+      "key": "cat_剧迷网",
+      "name": "剧迷┃影视",
       "type": 3,
-      "api": "csp_WexAppV7Guard",
-      "jar": "https://gitee.com/zengjing0620/tvbox/raw/jar/wex.jpg",
-      "searchable": 1,
-      "changeable": 0,
-      "ext": {
-        "config": "AppV7Xy",
-        "proxyImg": false
+      "api": "https://7337.kstore.vip/xw/js/高清剧迷.js",
+      "style": {
+        "type": "rect",
+        "ratio": 1
       },
-      "timeout": 120
-    },
-    {
-      "key": "AppV7 | 追剧达人",
-      "name": "追剧┃影视",
-      "type": 3,
-      "api": "csp_WexAppV7Guard",
-      "jar": "https://gitee.com/zengjing0620/tvbox/raw/jar/wex.jpg",
-      "searchable": 1,
-      "changeable": 0,
-      "ext": {
-        "config": "AppV7Zjdr",
-        "proxyImg": false
-      },
-      "timeout": 120
-    }, 
-    {
-      "key": "AppV7 | 小柚子",
-      "name": "柚子┃影视",
-      "type": 3,
-      "api": "csp_WexAppV7Guard",
-      "jar": "https://gitee.com/zengjing0620/tvbox/raw/jar/wex.jpg",
-      "searchable": 1,
-      "changeable": 0,
-      "ext": {
-        "config": "AppV7Xyz",
-        "proxyImg": false
-      },
-      "timeout": 120
-    }, 
-    {
-      "key": "AppV7 | 蒙太奇",
-      "name": "太奇┃影视",
-      "type": 3,
-      "api": "csp_WexAppV7Guard",
-      "jar": "https://gitee.com/zengjing0620/tvbox/raw/jar/wex.jpg",
-      "searchable": 1,
-      "changeable": 0,
-      "ext": {
-        "config": "AppV7Mtq",
-        "proxyImg": false
-      },
-      "timeout": 120
-    }, 
-    {
-      "key": "AppV7 | 小柿子",
-      "name": "柿子┃影视",
-      "type": 3,
-      "api": "csp_WexAppV7Guard",
-      "jar": "https://gitee.com/zengjing0620/tvbox/raw/jar/wex.jpg",
-      "searchable": 1,
-      "changeable": 0,
-      "ext": {
-        "config": "AppV7Xsz",
-        "proxyImg": false
-      },
-      "timeout": 120
-    }, {
-      "key": "AppV7 | 小黄人",
-      "name": "黄人┃影视",
-      "type": 3,
-      "api": "csp_WexAppV7Guard",
-      "jar": "https://gitee.com/zengjing0620/tvbox/raw/jar/wex.jpg",
-      "searchable": 1,
-      "changeable": 0,
-      "ext": {
-        "config": "AppV7Xhr",
-        "proxyImg": false
-      },
-      "timeout": 120
+      "changeable": 1
     },
 	{
       "name": "师兄┃影视",
@@ -504,7 +429,7 @@
       "jar": "https://gh-proxy.com/raw.githubusercontent.com/IY-CPU/IY/main/spider.jar",
       "api": "https://gh-proxy.com/raw.githubusercontent.com/IY-CPU/IY/main/lib/bl.py"
     },
-	{
+     {
       "key": "竹隐",
       "name": "竹隐┃APP",
       "type": 3,
