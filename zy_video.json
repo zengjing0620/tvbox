@@ -504,6 +504,36 @@
       "jar": "https://gh-proxy.com/raw.githubusercontent.com/IY-CPU/IY/main/spider.jar",
       "api": "https://gh-proxy.com/raw.githubusercontent.com/IY-CPU/IY/main/lib/bl.py"
     },
+	{
+      "key": "竹隐",
+      "name": "竹隐┃APP",
+      "type": 3,
+      "api": "csp_NiuLai",
+      "jar": "https://gitee.com/zengjing0620/tvbox/raw/jar/moyu.jar",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": "ASOaI+0HH0pDfWQ9VwPhMaOaO+WarJ6umTa/qwrJ+cbO4qRPAyjfTVh51M3iYZq/nEN+givTp7FLvjhWgQh8WCdjm82k8bbHm80C9j41tlvo"
+    },
+    {
+      "key": "观澜",
+      "name": "观澜┃APP",
+      "api": "csp_AppUn",
+      "jar": "https://gitee.com/zengjing0620/tvbox/raw/jar/moyu.jar",
+      "type": 3,
+      "ext": "AVV1qWzQBjKvN7CKup9rpdodlSeTxhlrSJPwshkidi4LdlbDt81YkaxBlOnImlhpaCXFZ3rlaVHkoA57wMFZIEUb0eGUhm8upw9Vw/Qq5sdr"
+    },
+    {
+      "key": "香篆",
+      "name": "香篆┃APP",
+      "type": 3,
+      "api": "csp_NiuLai",
+      "jar": "https://gitee.com/zengjing0620/tvbox/raw/jar/moyu.jar",
+      "searchable": 1,
+      "filterable": 1,
+      "changeable": 0,
+      "ext": "AYVQFckfgSMV740pmmoXzEeC6ljk5SNI/vhWnsIgCUWttSOCyil7DK8MLbeYpwWSgUvM0jcGIDuwi43iiO0FSFX1ofrxXH3IU944OtJbNlpMo9hvLoJTJ2RQVjWu3HU58w=="
+    },
     {
       "key": "猫抓",
       "name": "猫抓┃APP",
