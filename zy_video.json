@@ -5,7 +5,7 @@
   "sites": [
     {
       "key": "豆瓣",
-      "name": "1015更新：增加视频资源，删除失效站点",
+      "name": "1017更新：增加视频资源",
       "type": 3,
       "api": "csp_Douban",
       "searchable": 0
