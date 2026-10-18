@@ -1623,7 +1623,12 @@
     }
   ],
   "lives": [
-    {
+	{
+      "name": "裤佬",
+      "type": 0,
+      "url": "https://iptv.445569.xyz/live.m3u"
+    },
+	{
       "name": "XPB源",
       "type": 0,
       "url": "https://xpb.mhfs.eu.org/HZ.txt",
