@@ -10,6 +10,17 @@
       "api": "csp_Douban",
       "searchable": 0
     },
+	{
+      "key": "裤佬央视PY",
+      "name": "央视大全｜480P",
+      "type": 3,
+      "api": "https://mpimg.cn/down.php/2dfd46b7b542f1f4ac34e0af4ec5549b.py",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2
+    },
     {
       "key": "热播",
       "name": "热播┃无广",
