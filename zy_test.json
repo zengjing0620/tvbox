@@ -14,7 +14,7 @@
       "key": "剧迷PY",
       "name": "剧迷",
       "type": 3,
-      "jar": "https://raw.giteeusercontent.com/zengjing0620/tvbox/raw/jar/py/%E5%89%A7%E8%BF%B7.py",
+      "api": "https://raw.giteeusercontent.com/zengjing0620/tvbox/raw/jar/py/%E5%89%A7%E8%BF%B7.py",
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1,
