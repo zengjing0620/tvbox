@@ -206,14 +206,16 @@
     }
   ],
   "sites": [
-    {
-      "key": "豆瓣",
-      "name": "国庆快乐🥮免费分享",
+	{
+      "key": "剧迷PY",
+      "name": "剧迷py┃影视",
       "type": 3,
-      "api": "csp_Douban",
-      "jar": "https://gitee.com/KYSY1/dyy/raw/master/bh2601251.jar",
-      "searchable": 0,
-      "changeable": 1
+      "api": "https://raw.giteeusercontent.com/zengjing0620/tvbox/raw/jar/py/%E5%89%A7%E8%BF%B7.py",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2
     },
 	{
       "key": "热播",
@@ -225,17 +227,6 @@
       "quickSearch": 1,
       "filterable": 1,
       "ext": "http://v.rbotv.cn"
-    },
-    {
-      "name": "瓜子┃无广",
-      "key": "Guazi",
-      "type": 3,
-      "api": "csp_GuaziAmns",
-      "jar": "https://gitee.com/zengjing0620/tvbox/raw/jar/aowu.png",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0,
-      "ext": "Guazi"
     },
 	{
       "key": "360资源",
