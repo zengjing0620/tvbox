@@ -11,10 +11,10 @@
       "searchable": 0
     },
 	{
-      "key": "裤佬央视PY",
-      "name": "央视大全｜480P",
+      "key": "剧迷PY",
+      "name": "剧迷",
       "type": 3,
-      "api": "https://mpimg.cn/down.php/2dfd46b7b542f1f4ac34e0af4ec5549b.py",
+      "api": "https://raw.giteeusercontent.com/zengjing0620/tvbox/raw/jar/py/%E5%89%A7%E8%BF%B7.py",
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1,
