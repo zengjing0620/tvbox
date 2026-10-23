@@ -207,8 +207,39 @@
   ],
   "sites": [
 	{
+      "key": "豆瓣",
+      "name": "免费分享",
+      "type": 3,
+      "api": "csp_Douban",
+      "jar": "https://gitee.com/KYSY1/dyy/raw/master/bh2601251.jar",
+      "searchable": 0,
+      "changeable": 1
+    },
+	{
       "key": "剧迷PY",
       "name": "剧迷py┃影视",
+      "type": 3,
+      "api": "https://raw.giteeusercontent.com/zengjing0620/tvbox/raw/jar/py/%E5%89%A7%E8%BF%B7.py",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2
+    },
+	{
+      "key": "瓜子PY",
+      "name": "瓜子py┃影视",
+      "type": 3,
+      "api": "https://raw.giteeusercontent.com/zengjing0620/tvbox/raw/jar/py/%E5%89%A7%E8%BF%B7.py",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2
+    },
+	{
+      "key": "guluPY",
+      "name": "咕噜py┃影视",
       "type": 3,
       "api": "https://raw.giteeusercontent.com/zengjing0620/tvbox/raw/jar/py/%E5%89%A7%E8%BF%B7.py",
       "searchable": 1,
