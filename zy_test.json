@@ -11,57 +11,6 @@
       "searchable": 0
     },
     {
-      "key": "mtq",
-      "name": "蒙太奇┃4K",
-      "type": 3,
-      "api": "csp_Mtq",
-	  "jar": "https://cac.opple.com/yc-media/getFile?id=88851410b7fd4d3db0e02fa9f7c3c46d#.png;md5;95e892b6b69c0dd5f9d264094db5b2b9",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": {
-        "hide_unplayable": false
-      }
-    },
-    {
-      "key": "mino",
-      "name": "MiNO┃4K",
-      "type": 3,
-      "api": "csp_MiNO",
-	  "jar": "https://gitee.com/zengjing0620/tvbox/raw/jar/xmxl.png",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 1,
-      "ext": {
-        "rotate_device": 1,
-        "auto_fallback": 1
-      }
-    },
-	{
-      "key": "KanJuMe",
-      "name": "看剧么┃影视",
-      "type": 3,
-      "api": "csp_KanJuMe",
-	  "jar": "https://gitee.com/zengjing0620/tvbox/raw/jar/xmxl.png",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": {
-        "danmu": true,
-        "danmu_api": "https://dm.211.li/nonay"
-      }
-    },
-    {
-      "key": "dongpian",
-      "name": "懂片┃无广",
-      "type": 3,
-      "api": "csp_DongPianDi",
-	  "jar": "https://gitee.com/zengjing0620/tvbox/raw/jar/xmxl.png",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "热播",
       "name": "热播┃无广",
       "type": 3,
@@ -93,6 +42,20 @@
       "quickSearch": 1,
       "changeable": 0,
       "ext": "Guazi"
+    },
+	{
+      "key": "KanJuMe",
+      "name": "看剧么┃影视",
+      "type": 3,
+      "api": "csp_KanJuMe",
+	  "jar": "https://gitee.com/zengjing0620/tvbox/raw/jar/xmxl.png",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "danmu": true,
+        "danmu_api": "https://dm.211.li/nonay"
+      }
     },
 	{
       "key": "360资源",
@@ -436,6 +399,43 @@
         "version": "3.0.2.4",
         "decrypt": "1"
       }//ts
+    },
+    {
+      "key": "mtq",
+      "name": "蒙太奇┃4K",
+      "type": 3,
+      "api": "csp_Mtq",
+	  "jar": "https://cac.opple.com/yc-media/getFile?id=88851410b7fd4d3db0e02fa9f7c3c46d#.png;md5;95e892b6b69c0dd5f9d264094db5b2b9",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": {
+        "hide_unplayable": false
+      }
+    },
+    {
+      "key": "mino",
+      "name": "MiNO┃4K",
+      "type": 3,
+      "api": "csp_MiNO",
+	  "jar": "https://gitee.com/zengjing0620/tvbox/raw/jar/xmxl.png",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": {
+        "rotate_device": 1,
+        "auto_fallback": 1
+      }
+    },
+    {
+      "key": "dongpian",
+      "name": "懂片┃4K",
+      "type": 3,
+      "api": "csp_DongPianDi",
+	  "jar": "https://gitee.com/zengjing0620/tvbox/raw/jar/xmxl.png",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     },
     {
       "key": "Luck",
