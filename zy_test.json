@@ -52,6 +52,16 @@
       }
     },
     {
+      "key": "dongpian",
+      "name": "懂片┃无广",
+      "type": 3,
+      "api": "csp_DongPianDi",
+	  "jar": "https://gitee.com/zengjing0620/tvbox/raw/jar/xmxl.png",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "热播",
       "name": "热播┃无广",
       "type": 3,
