@@ -12,10 +12,10 @@
     },
     {
       "key": "mtq",
-      "name": "🍊蒙太奇┃秒播4K",
+      "name": "蒙太奇┃4K",
       "type": 3,
       "api": "csp_Mtq",
-	  "jar": "https://gitee.com/zengjing0620/tvbox/raw/jar/xmxl.png",
+	  "jar": "https://cac.opple.com/yc-media/getFile?id=88851410b7fd4d3db0e02fa9f7c3c46d#.png;md5;95e892b6b69c0dd5f9d264094db5b2b9",
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
@@ -25,7 +25,7 @@
     },
     {
       "key": "mino",
-      "name": "📱MiNO┃秒播4K",
+      "name": "MiNO┃4K",
       "type": 3,
       "api": "csp_MiNO",
 	  "jar": "https://gitee.com/zengjing0620/tvbox/raw/jar/xmxl.png",
@@ -35,6 +35,20 @@
       "ext": {
         "rotate_device": 1,
         "auto_fallback": 1
+      }
+    },
+	{
+      "key": "KanJuMe",
+      "name": "看剧么┃影视",
+      "type": 3,
+      "api": "csp_KanJuMe",
+	  "jar": "https://gitee.com/zengjing0620/tvbox/raw/jar/xmxl.png",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "danmu": true,
+        "danmu_api": "https://dm.211.li/nonay"
       }
     },
     {
