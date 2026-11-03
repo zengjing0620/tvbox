@@ -163,16 +163,6 @@
       "timeout": 25
     },
     {
-      "key": "人人",
-      "name": "人人｜网盘4K扫码",
-      "type": 3,
-      "api": "csp_RenRen",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "timeout": 60
-    },
-    {
       "key": "欧歌",
       "name": "欧歌｜网盘4K扫码",
       "type": 3,
@@ -190,39 +180,6 @@
         ]
       },
       "timeout": 60
-    },
-    {
-      "key": "清影",
-      "name": "观影｜网盘4K扫码",
-      "type": 3,
-      "api": "csp_PanWebShareQY",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": {
-        "site": [
-          "http://www.revohd.com"
-        ]
-      },
-      "timeout": 30
-    },
-    {
-      "key": "闪电",
-      "name": "闪电｜网盘4K扫码",
-      "type": 3,
-      "api": "csp_PanWebShare",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": {
-        "site": [
-          "https://shandian.blog",
-          "https://sd.sduc.site"
-        ]
-      },
-      "timeout": 25
     },
     {
       "key": "多多",
