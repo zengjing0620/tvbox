@@ -6,7 +6,7 @@
   "sites": [
     {
       "key": "豆瓣",
-      "name": "网盘扫码授权看真4K,网速低于300M卡顿",
+      "name": "高质量影视臻享",
       "type": 3,
       "api": "csp_Douban",
       "jar": "./lib/xs.jar",
