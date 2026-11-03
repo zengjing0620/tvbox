@@ -1,5 +1,5 @@
 {
-  "spider": "./lib/xiaxia.png",
+  "spider": "./lib/xiaxia.jar",
   "logo": "https://file.icve.com.cn/file_doc/945/35/EC508FBD046D33EC4832BB76B63B6C94.gif",
   "danmaku": "http://127.0.0.1:2525/danmu?name={name}&epid={episode}",
   "wallpaper": "http://127.0.0.1:9978/proxy?do=AowuWapper&mode=2",
