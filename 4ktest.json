@@ -9,6 +9,7 @@
       "key": "Douban",
       "type": 3,
       "api": "csp_DoubanAmns",
+      "jar": "./lib/xs.jar",
       "indexs": 1,
       "searchable": 0,
       "quickSearch": 0,
