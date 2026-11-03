@@ -5,16 +5,12 @@
   "wallpaper": "http://127.0.0.1:9978/proxy?do=AowuWapper&mode=2",
   "sites": [
     {
-      "name": "网盘扫码授权看4K，网速低于300M卡顿",
-      "key": "Douban",
+      "key": "豆瓣",
+      "name": "网盘扫码授权看真4K,网速低于300M卡顿",
       "type": 3,
-      "api": "csp_DoubanAmns",
+      "api": "csp_Douban",
       "jar": "./lib/xs.jar",
-      "indexs": 1,
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 1,
-      "ext": "Douban"
+      "searchable": 0
     },
     {
       "key": "配置中心",
