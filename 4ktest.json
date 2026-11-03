@@ -14,7 +14,7 @@
     },
     {
       "key": "配置中心",
-      "name": "配置｜中心",
+      "name": "配置中心｜扫码授权才能看",
       "type": 3,
       "api": "csp_Config",
       "jar": "https://gitee.com/xiayede/tvbox/raw/master/spider.jar",
