@@ -6,7 +6,7 @@
   "sites": [
     {
       "key": "豆瓣",
-      "name": "高质量影视臻享",
+      "name": "高质量网盘影视臻享",
       "type": 3,
       "api": "csp_Douban",
       "jar": "./lib/xs.jar",
