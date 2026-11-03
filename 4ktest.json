@@ -27,7 +27,7 @@
     },
     {
       "key": "玩偶哥哥",
-      "name": "🌐玩偶｜4K自扫",
+      "name": "玩偶｜4K自扫",
       "type": 3,
       "api": "csp_Wogg",
       "searchable": 1,
@@ -45,7 +45,7 @@
     },
     {
       "key": "木偶",
-      "name": "🌐木偶｜4K自扫",
+      "name": "木偶｜4K自扫",
       "type": 3,
       "api": "csp_PanWebShare",
       "searchable": 1,
@@ -63,7 +63,7 @@
     },
     {
       "key": "闪电",
-      "name": "🌐闪电｜4K自扫",
+      "name": "闪电｜4K自扫",
       "type": 3,
       "api": "csp_PanWebShare",
       "searchable": 1,
@@ -78,7 +78,7 @@
     },
     {
       "key": "多多",
-      "name": "🌐多多｜4K自扫",
+      "name": "多多｜4K自扫",
       "type": 3,
       "api": "csp_PanWebShare",
       "searchable": 1,
@@ -95,7 +95,7 @@
     },
     {
       "key": "欧哥",
-      "name": "🌐欧哥｜4K自扫",
+      "name": "欧哥｜4K自扫",
       "type": 3,
       "api": "csp_PanWebShare",
       "searchable": 1,
@@ -112,7 +112,7 @@
     },
     {
       "key": "蜡笔",
-      "name": "🌐蜡笔｜4K自扫",
+      "name": "蜡笔｜4K自扫",
       "type": 3,
       "api": "csp_PanWebShare",
       "searchable": 1,
@@ -131,7 +131,7 @@
     },
     {
       "key": "花卷",
-      "name": "🌐花卷｜4K自扫",
+      "name": "花卷｜4K自扫",
       "type": 3,
       "api": "csp_PanWebShareHJ",
       "searchable": 1,
@@ -147,7 +147,7 @@
     },
     {
       "key": "快映",
-      "name": "🌐快映｜4K自扫",
+      "name": "快映｜4K自扫",
       "type": 3,
       "api": "csp_PanWebShare",
       "searchable": 1,
@@ -163,7 +163,7 @@
     },
     {
       "key": "虎斑",
-      "name": "🌐虎斑｜4K自扫",
+      "name": "虎斑｜4K自扫",
       "type": 3,
       "api": "csp_PanWebShare",
       "searchable": 1,
@@ -179,7 +179,7 @@
     },
     {
       "key": "双星",
-      "name": "🌐双星｜4K自扫",
+      "name": "双星｜4K自扫",
       "type": 3,
       "api": "csp_ShuangXing",
       "style": {
@@ -188,7 +188,7 @@
     },
     {
       "key": "种子",
-      "name": "🌐种子｜4K自扫",
+      "name": "种子｜4K自扫",
       "type": 3,
       "api": "csp_SeedHub",
       "searchable": 1,
@@ -203,21 +203,8 @@
       }
     },
     {
-      "key": "卡卡",
-      "name": "🌐卡卡｜4K自扫",
-      "type": 3,
-      "api": "csp_KKPan",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "style": {
-        "type": "list"
-      },
-      "timeout": 60
-    },
-    {
       "key": "即刻",
-      "name": "🌐即刻｜4K自扫",
+      "name": "即刻｜4K自扫",
       "type": 3,
       "api": "csp_Jike",
       "style": {
@@ -225,14 +212,8 @@
       }
     },
     {
-      "key": "人人",
-      "name": "🌐人人｜4K自扫",
-      "type": 3,
-      "api": "csp_RenRen"
-    },
-    {
       "key": "指南",
-      "name": "🌐指南｜4K自扫",
+      "name": "指南｜4K自扫",
       "type": 3,
       "api": "csp_4KZhinan",
       "searchable": 1,
@@ -246,7 +227,7 @@
     },
     {
       "key": "小丑",
-      "name": "🌐小丑｜4K自扫",
+      "name": "小丑｜4K自扫",
       "type": 3,
       "api": "csp_4KZhinan",
       "searchable": 1,
