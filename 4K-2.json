@@ -6,7 +6,7 @@
   "sites": [
     {
       "key": "豆瓣",
-      "name": "高质量网盘影视臻享",
+      "name": "线路第一次加载较为缓慢，请耐心等待",
       "type": 3,
       "api": "csp_Douban",
       "jar": "./lib/xs.jar",
@@ -25,7 +25,7 @@
       }
   },{
       "key": "花卷",
-      "name": "💓花卷┃4K💓‍",
+      "name": "花卷┃4K扫码",
       "type": 3,
       "api": "csp_AiNewHuaJuanGuard",
       "searchable": 1,
@@ -33,7 +33,7 @@
       "changeable": 0
   }, {
       "key": "玩偶",
-      "name": "💓‍玩偶┃4K💓‍",
+      "name": "玩偶┃4K扫码",
       "type": 3,
       "api": "csp_AiNewWoggGuard",
       "searchable": 1,
@@ -41,7 +41,7 @@
       "changeable": 0
   }, {
       "key": "AiNewGuanYing",
-      "name": "💓‍观影┃4K💓‍",
+      "name": "观影┃4K扫码",
       "type": 3,
       "api": "csp_AiNewGuanYingGuard",
       "searchable": 1,
@@ -49,7 +49,7 @@
       "changeable": 0
   }, {
       "key": "AiQwMkv",
-      "name": "💓‍七味┃4K💓‍",
+      "name": "七味┃4K扫码",
       "type": 3,
       "api": "csp_AiQwMkvGuard",
       "searchable": 1,
@@ -57,7 +57,7 @@
       "changeable": 0
   }, {
       "key": "AiNewPianKu",
-      "name": "💓盘库┃4K💓",
+      "name": "盘库┃4K扫码",
       "type": 3,
       "api": "csp_AiNewPianKuGuard",
       "searchable": 1,
@@ -65,7 +65,7 @@
       "changeable": 0
   }, {
       "key": "AiNewHuBan",
-      "name": "💓虎斑┃4K💓",
+      "name": "虎斑┃4K扫码",
       "type": 3,
       "api": "csp_AiNewHuBanGuard",
       "searchable": 1,
@@ -73,7 +73,7 @@
       "changeable": 0
   }, {
       "key": "AiNewMuOu",
-      "name": "💓木偶┃4K💓",
+      "name": "木偶┃4K扫码",
       "type": 3,
       "api": "csp_AiNewMuOuGuard",
       "searchable": 1,
@@ -81,7 +81,7 @@
       "changeable": 0
   }, {
       "key": "AiNewDuoDuo",
-      "name": "💓多多┃4K💓",
+      "name": "多多┃4K扫码",
       "type": 3,
       "api": "csp_AiNewDuoDuoGuard",
       "searchable": 1,
@@ -89,7 +89,7 @@
       "changeable": 0
   },  {
       "key": "AiNewKuaiYing",
-      "name": "💓快影┃4K💓",
+      "name": "快影┃4K扫码",
       "type": 3,
       "api": "csp_AiNewKuaiYingGuard",
       "searchable": 1,
@@ -97,23 +97,15 @@
       "changeable": 0
   },  {
       "key": "AiNewLaBi",
-      "name": "💓蜡笔┃4K💓",
+      "name": "蜡笔┃4K扫码",
       "type": 3,
       "api": "csp_AiNewLaBiGuard",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0
-  },  {
-      "key": "AiNewShanDian",
-      "name": "💓闪电┃4K💓",
-      "type": 3,
-      "api": "csp_AiNewShanDianGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0
-  }, {
+  },{
       "key": "AiNewJuTou",
-      "name": "💓剧透┃4K💓",
+      "name": "剧透┃4K扫码",
       "type": 3,
       "api": "csp_AiNewJuTouGuard",
       "searchable": 1,
@@ -121,7 +113,7 @@
       "changeable": 0
   }, {
       "key": "AiNewLibvio",
-      "name": "💓立播┃4K💓",
+      "name": "立播┃4K扫码",
       "type": 3,
       "api": "csp_AiNewLibvioGuard",
       "searchable": 1,
@@ -129,25 +121,9 @@
       "changeable": 0
   }, {
       "key": "原盘",
-      "name": "💓‍原盘┃4K💓‍",
+      "name": "原盘┃4K扫码",
       "type": 3,
       "api": "csp_AiNewZhiNan4KGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0
-  }, {
-      "key": "蜗牛",
-      "name": "💓‍蜗牛┃4K💓‍",
-      "type": 3,
-      "api": "csp_AiNewWoNiu4KGuard",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 0
-  }, {
-      "key": "AiPan1Me",
-      "name": "💓盘迷┃4K💓",
-      "type": 3,
-      "api": "csp_AiPan1MeGuard",
       "searchable": 1,
       "quickSearch": 1,
       "changeable": 0
