@@ -1,5 +1,5 @@
 {
-  "spider": "./lib/xyr.jar",
+  "spider": "./lib/wex.jpg",
   "logo": "https://file.icve.com.cn/file_doc/945/35/EC508FBD046D33EC4832BB76B63B6C94.gif",
   "danmaku": "http://127.0.0.1:2525/danmu?name={name}&epid={episode}",
   "wallpaper": "https://wp.upx8.com/api.php",
@@ -12,223 +12,146 @@
       "jar": "./lib/xs.jar",
       "searchable": 0
     },
-    {
-      "key": "配置中心",
-      "name": "配置｜中心",
+  {
+      "key": "Wexconfig",
+      "name": "配置中心┃网盘扫码才可以观看",
       "type": 3,
-      "api": "csp_Config",
+      "api": "csp_PanConfigGuard",
       "searchable": 0,
       "changeable": 0,
       "indexs": 0,
       "style": {
-        "type": "rect",
-        "ratio": 1.597
+          "type": "list"
       }
-    },
-    {
-      "key": "指南",
-      "name": "指南｜网盘4K扫码",
+  },{
+      "key": "花卷",
+      "name": "💓花卷┃4K💓‍",
       "type": 3,
-      "api": "csp_4KZhinan",
-      "jar": "./lib/xyr.jar",
+      "api": "csp_AiNewHuaJuanGuard",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "timeout": 60
-    },
-    {
+      "changeable": 0
+  }, {
       "key": "玩偶",
-      "name": "玩偶｜网盘4K扫码",
+      "name": "💓‍玩偶┃4K💓‍",
       "type": 3,
-      "api": "csp_Wogg",
-      "jar": "./lib/xyr.jar",
+      "api": "csp_AiNewWoggGuard",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": {
-        "site": [
-          "https://wogg.xxooo.cf",
-          "https://woggpan.888484.xyz",
-          "https://wogg.333232.xyz",
-          "http://woggpan.xxooo.cf",
-          "https://www.wogg.one"
-        ]
-      },
-      "timeout": 30
-    },
-    {
-      "key": "至臻",
-      "name": "花卷｜网盘4K扫码",
+      "changeable": 0
+  }, {
+      "key": "AiNewGuanYing",
+      "name": "💓‍观影┃4K💓‍",
       "type": 3,
-      "api": "csp_PanWebShare",
-      "jar": "./lib/xyr.jar",
+      "api": "csp_AiNewGuanYingGuard",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": {
-        "site": [
-          "https://mihdr.top",
-          "https://www.miqk.cc",
-          "https://xiaomiai.site",
-          "https://xiaomi666.fun",
-          "https://www.mihdr.top",
-          "https://www.zhizhenpan.fun"
-        ]
-      },
-      "timeout": 25
-    },
-    {
-      "key": "即刻",
-      "name": "即刻｜网盘4K扫码",
+      "changeable": 0
+  }, {
+      "key": "AiQwMkv",
+      "name": "💓‍七味┃4K💓‍",
       "type": 3,
-      "api": "csp_Jike",
-      "jar": "./lib/xyr.jar",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "style": {
-        "type": "list"
-      },
-      "timeout": 25
-    },
-    {
-      "key": "双星",
-      "name": "双星｜网盘4K扫码",
-      "type": 3,
-      "api": "csp_ShuangXing",
-      "jar": "./lib/xyr.jar",
-      "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "style": {
-        "type": "list"
-      },
-      "timeout": 25
-    },
-    {
-      "key": "蜡笔",
-      "name": "蜡笔｜网盘4K扫码",
-      "type": 3,
-      "api": "csp_PanWebShare",
-      "jar": "./lib/xyr.jar",
+      "api": "csp_AiQwMkvGuard",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": {
-        "site": [
-          "http://xiaocge.fun",
-          "http://feimo.fun",
-          "https://feimao666.fun",
-          "http://feimao888.fun",
-          "http://www.labi88.sbs",
-          "http://fmao.site",
-          "http://fmao.shop",
-          "http://xiaocgege.shop"
-        ]
-      },
-      "timeout": 25
-    },
-    {
-      "key": "二小",
-      "name": "二小｜网盘4K扫码",
+      "changeable": 0
+  }, {
+      "key": "AiNewPianKu",
+      "name": "💓盘库┃4K💓",
       "type": 3,
-      "api": "csp_PanWebShare",
-      "jar": "./lib/xyr.jar",
+      "api": "csp_AiNewPianKuGuard",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": {
-        "site": [
-          "https://www.2xiaopan.top",
-          "https://2xiaopan.top",
-          "https://www.erxiaozhan.top",
-          "https://www.2xiaozhan.top",
-          "https://wexwp.cc"
-        ]
-      },
-      "timeout": 25
-    },
-    {
-      "key": "虎斑",
-      "name": "虎斑｜网盘4K扫码",
+      "changeable": 0
+  }, {
+      "key": "AiNewHuBan",
+      "name": "💓虎斑┃4K💓",
       "type": 3,
-      "api": "csp_PanWebShare",
-      "jar": "./lib/xyr.jar",
+      "api": "csp_AiNewHuBanGuard",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": {
-        "site": [
-          "http://xhban.xyz:20720",
-          "http://154.222.27.33:20720"
-        ]
-      },
-      "timeout": 25
-    },
-    {
-      "key": "欧歌",
-      "name": "欧歌｜网盘4K扫码",
+      "changeable": 0
+  }, {
+      "key": "AiNewMuOu",
+      "name": "💓木偶┃4K💓",
       "type": 3,
-      "api": "csp_PanWebShare",
-      "jar": "./lib/xyr.jar",
+      "api": "csp_AiNewMuOuGuard",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": {
-        "site": [
-          "https://woog.nxog.eu.org",
-          "https://woog.nxog.fun",
-          "https://woog.nxog.eu.org",
-          "https://woog.430520.xyz"
-        ]
-      },
-      "timeout": 60
-    },
-    {
-      "key": "多多",
-      "name": "多多｜网盘4K扫码",
+      "changeable": 0
+  }, {
+      "key": "AiNewDuoDuo",
+      "name": "💓多多┃4K💓",
       "type": 3,
-      "api": "csp_PanWebShare",
-      "jar": "./lib/xyr.jar",
+      "api": "csp_AiNewDuoDuoGuard",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": {
-        "site": [
-          "https://tv.yydsys.top",
-          "https://tv.yydsys.cc",
-          "https://tv.214521.xyz"
-        ]
-      },
-      "timeout": 25
-    },
-    {
-      "key": "木偶",
-      "name": "木偶｜网盘4K扫码",
+      "changeable": 0
+  },  {
+      "key": "AiNewKuaiYing",
+      "name": "💓快影┃4K💓",
       "type": 3,
-      "api": "csp_PanWebShare",
-      "jar": "./lib/xyr.jar",
+      "api": "csp_AiNewKuaiYingGuard",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": {
-        "site": [
-          "https://123.666291.xyz",
-          "https://666.666291.xyz",
-          "https://www.muou.site",
-          "https://www.muou.asia"
-        ]
-      },
-      "timeout": 25
-    }
+      "changeable": 0
+  },  {
+      "key": "AiNewLaBi",
+      "name": "💓蜡笔┃4K💓",
+      "type": 3,
+      "api": "csp_AiNewLaBiGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0
+  },  {
+      "key": "AiNewShanDian",
+      "name": "💓闪电┃4K💓",
+      "type": 3,
+      "api": "csp_AiNewShanDianGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0
+  }, {
+      "key": "AiNewJuTou",
+      "name": "💓剧透┃4K💓",
+      "type": 3,
+      "api": "csp_AiNewJuTouGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0
+  }, {
+      "key": "AiNewLibvio",
+      "name": "💓立播┃4K💓",
+      "type": 3,
+      "api": "csp_AiNewLibvioGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0
+  }, {
+      "key": "原盘",
+      "name": "💓‍原盘┃4K💓‍",
+      "type": 3,
+      "api": "csp_AiNewZhiNan4KGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0
+  }, {
+      "key": "蜗牛",
+      "name": "💓‍蜗牛┃4K💓‍",
+      "type": 3,
+      "api": "csp_AiNewWoNiu4KGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0
+  }, {
+      "key": "AiPan1Me",
+      "name": "💓盘迷┃4K💓",
+      "type": 3,
+      "api": "csp_AiPan1MeGuard",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 0
+  }
   ],
   "lives": [],
   "parses": [
