@@ -13,13 +13,13 @@
       "searchable": 0
     },
     {
-      "key": "配置中心",
-      "name": "配置中心｜先扫网盘授权才可以观看",
+      "key": "配置123中心",
+      "name": "配置｜中心",
       "type": 3,
       "api": "csp_Config",
       "searchable": 0,
       "changeable": 0,
-      "indexs": 0,
+      "jar": "https://ncstatic-file.clewm.net/rsrc/2026/0518/23/70e2716a924a054b51b8a61f1c9b9c23.jpg;md5;be1a3405a0fe12217c0bd06f17b19d05",
       "style": {
         "type": "rect",
         "ratio": 1.597
