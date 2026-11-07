@@ -5,7 +5,7 @@
   "wallpaper": "http://127.0.0.1:9978/proxy?do=AowuWapper&mode=2",
   "sites": [
     {
-      "name": "网盘扫码授权看4K，网速低于300M卡顿",
+      "name": "高质量网盘影视臻享",
       "key": "Douban",
       "type": 3,
       "api": "csp_DoubanAmns",
@@ -20,15 +20,6 @@
       "key": "MyConfig",
       "type": 3,
       "api": "csp_AAConfigAmns",
-      "searchable": 0,
-      "quickSearch": 0,
-      "changeable": 0
-    },
-    {
-      "name": "资源┃本地",
-      "key": "MyAll",
-      "type": 3,
-      "api": "csp_MyAllAmns",
       "searchable": 0,
       "quickSearch": 0,
       "changeable": 0
