@@ -2,6 +2,7 @@
   "spider": "./lib/xs.jar",
   "wallpaper": "http://127.0.0.1:9978/proxy?do=wallpaper",
   "logo": "http://127.0.0.1:9978/file/TVBox/logo.png",
+  "warningText": "温馨提示:\n盒子搬运工接口长期更新维护，仅用于自用研究测试 \n切勿传播、贩卖！",
   "sites": [
     {
       "key": "豆瓣",
