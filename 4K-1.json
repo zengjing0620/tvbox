@@ -1,264 +1,199 @@
 {
-  "spider": "./lib/xs.jar",
+  "spider": "./lib/moyu.jar",
   "wallpaper": "http://127.0.0.1:9978/proxy?do=wallpaper",
-  "logo": "http://127.0.0.1:9978/file/TVBox/logo.png",
-  "warningText": "温馨提示:\n盒子搬运工接口长期更新维护，仅用于自用研究测试 \n切勿传播、贩卖！",
+  "logo": "https://modelscope-resouces.oss-cn-zhangjiakou.aliyuncs.com/avatar%2Ff5309172-1af6-4c4f-a1c5-a4773a1cc718.gif",
+  "danmaku": "http://127.0.0.1:5266/danmu/webhtv?name={name}&episode={episode}",
+  "warningText": "温馨提示:\网盘接口长期更新维护，仅用于自用研究测试 \n切勿传播、贩卖！",
   "sites": [
     {
-      "key": "豆瓣",
-      "name": "高质量网盘影视臻享",
+      "key": "Douban",
+      "name": "高质量网盘精选资源臻享",
       "type": 3,
-      "api": "csp_Douban",
-      "searchable": 0
-    },
-    {
-      "key": "配置中心",
-      "name": "配置中心｜网盘扫码才可以观看",
-      "type": 3,
-      "api": "csp_Config",
-      "searchable": 0,
-      "changeable": 0,
-      "indexs": 0,
-      "style": {
-        "type": "rect",
-        "ratio": 1.597
+      "api": "csp_PianDan",
+      "searchable": 1,
+      "indexs": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": {
+        "home": {
+          "douban": "https://tc-new.z.wiki/autoupload/k2fxc/20260918/r68R/douban.json",
+          "tmdb": "https://tc-new.z.wiki/autoupload/k2fxc/20260918/yAKC/tmdb.json"
+        }
       }
     },
     {
-      "key": "至臻",
-      "name": "花卷｜4K网盘",
+      "key": "FishConfig",
+      "name": "网盘设置中心",
       "type": 3,
-      "api": "csp_PanWebShare",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": {
-        "site": [
-          "https://mihdr.top",
-          "https://www.miqk.cc",
-          "https://xiaomiai.site",
-          "https://xiaomi666.fun",
-          "https://www.mihdr.top",
-          "https://www.zhizhenpan.fun"
-        ]
-      },
-      "timeout": 60
+      "api": "csp_FishConfig"
     },
     {
-      "key": "玩偶",
-      "name": "玩偶｜4K网盘",
+      "key": "Wogg",
+      "name": "玩偶┆4K",
       "type": 3,
       "api": "csp_Wogg",
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
       "changeable": 1,
+      "filterable": 1,
       "ext": {
         "site": [
           "https://wogg.xxooo.cf",
           "https://woggpan.888484.xyz",
-          "https://wogg.333232.xyz",
-          "http://woggpan.xxooo.cf",
-          "https://www.wogg.one"
-        ]
-      },
-      "timeout": 60
+          "https://www.wogg.live",
+          "http://woggpan.xxooo.cf"
+        ],
+        "filter": "https://tc-new.z.wiki/autoupload/iYHTWVx6T8RrCmqdGD6MOdiO_OyvX7mIgxFBfDMDErs/20260320/oOf4/wogg.json"
+      }
     },
     {
-      "key": "木偶",
-      "name": "木偶｜4K网盘",
+      "key": "Fishhuajuan",
+      "name": "花卷┆4K",
       "type": 3,
-      "api": "csp_PanWebShare",
+      "api": "csp_FishCloud",
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
+      "ext": {
+        "site": [
+          "https://www.hjzhencai.top",
+          "https://www.huanjuanwp.shop"
+        ]
+      }
+    },
+    {
+      "key": "FishMuou",
+      "name": "木偶┆4K",
+      "type": 3,
+      "api": "csp_FishCloud",
+      "searchable": 1,
+      "ext": {
+        "site": [
+          "https://www.muoua.top",
+          "https://333.333291.xyz",
+          "https://666.666291.xyz"
+        ]
+      }
+    },
+    {
+      "key": "Libvio",
+      "name": "立播┆4K",
+      "type": 3,
+      "api": "csp_Libvio",
+      "searchable": 1,
       "changeable": 1,
       "ext": {
         "site": [
-          "https://123.666291.xyz",
-          "https://666.666291.xyz",
-          "https://www.muou.site",
-          "https://www.muou.asia"
+          "https://libviofabu.com",
+          "https://libvio.app",
+          "https://libfabu.com",
+          "https://libviogroup.github.io"
         ]
-      },
-      "timeout": 60
+      }
     },
     {
-      "key": "欧哥",
-      "name": "欧哥｜4K网盘",
+      "key": "KZN",
+      "name": "指南┆4K",
       "type": 3,
-      "api": "csp_PanWebShare",
+      "api": "csp_KZN",
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
+      "changeable": 1
+    },
+    {
+      "key": "SeedHub",
+      "name": "Seed┆4K",
+      "type": 3,
+      "api": "csp_SeedHub",
+      "searchable": 1,
       "ext": {
         "site": [
-          "https://woog.nxog.eu.org",
-          "https://woog.nxog.fun",
-          "https://woog.nxog.eu.org",
-          "https://woog.430520.xyz"
+          "https://sidhub.cc",
+          "https://seeduck.cc",
+          "https://hubdog.cc"
         ]
-      },
-      "timeout": 60
+      }
     },
     {
-      "key": "二小",
-      "name": "二小｜4K网盘",
+      "key": "Yidong4K",
+      "name": "移动┆4K",
       "type": 3,
-      "api": "csp_PanWebShare",
+      "api": "csp_Yidong4K",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": {
-        "site": [
-          "https://www.2xiaopan.top",
-          "https://2xiaopan.top",
-          "https://www.erxiaozhan.top",
-          "https://www.2xiaozhan.top",
-          "https://wexwp.cc"
-        ]
-      },
-      "timeout": 60
-    },
-    {
-      "key": "虎斑",
-      "name": "虎斑｜4K网盘",
-      "type": 3,
-      "api": "csp_PanWebShare",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": {
-        "site": [
-          "http://xhban.xyz:20720",
-          "http://154.222.27.33:20720"
-        ]
-      },
-      "timeout": 60
-    },
-    {
-      "key": "双星",
-      "name": "双星｜4K网盘",
-      "type": 3,
-      "api": "csp_ShuangXing",
-      "searchable": 1,
-      "quickSearch": 0,
       "filterable": 0,
-      "style": {
-        "type": "list"
-      },
-      "timeout": 60
+      "changeable": 1
     },
     {
-      "key": "快映",
-      "name": "快映｜4K网盘",
+      "key": "FishDuoduo",
+      "name": "多多┆4K",
       "type": 3,
-      "api": "csp_PanWebShare",
+      "api": "csp_FishCloud",
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": {
-        "site": [
-          "http://xsayang.fun",
-          "http://38.76.197.172:12521"
-        ]
-      },
-      "timeout": 60
-    },
-    {
-      "key": "蜡笔",
-      "name": "蜡笔｜4K网盘",
-      "type": 3,
-      "api": "csp_PanWebShare",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": {
-        "site": [
-          "https://www.fmcf.fun",
-          "https://www.mmpanpan.site",
-          "http://tvpanpan.site",
-          "http://www.tvpanpan.site"
-        ]
-      },
-      "timeout": 60
-    },
-    {
-      "key": "多多",
-      "name": "多多｜4K网盘",
-      "type": 3,
-      "api": "csp_PanWebShare",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
       "ext": {
         "site": [
           "https://tv.yydsys.top",
           "https://tv.yydsys.cc",
           "https://tv.214521.xyz"
         ]
-      },
-      "timeout": 60
+      }
     },
     {
-      "key": "闪电",
-      "name": "闪电｜4K网盘",
+      "key": "FishHuban",
+      "name": "虎斑┆4K",
       "type": 3,
-      "api": "csp_PanWebShare",
+      "api": "csp_FishCloud",
       "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
       "ext": {
         "site": [
-          "http://shandian.blog",
-          "https://sd.sduc.site"
+          "http://xhban.xyz",
+          "http://38.76.197.172:16969"
         ]
-      },
-      "timeout": 60
+      }
     },
     {
-      "key": "盘它",
-      "name": "盘它｜4K网盘",
+      "key": "Fishshayang",
+      "name": "闪电┆4K",
       "type": 3,
-      "api": "csp_PanWebSharePT",
+      "api": "csp_FishCloud",
       "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "style": {
-        "type": "list"
-      },
-      "timeout": 60
+      "ext": {
+        "site": [
+          "http://xsayang.fun",
+          "http://38.76.197.172:12521"
+        ]
+      }
     },
     {
-      "key": "指南",
-      "name": "指南｜4K网盘",
+      "key": "Fishgege",
+      "name": "欧哥┆4K",
       "type": 3,
-      "api": "csp_4KZhinan",
+      "api": "csp_FishCloud",
+      "searchable": 1,
+      "ext": {
+        "site": [
+          "https://woog.nxog.eu.org",
+          "https://ogkk.nxog.eu.org",
+          "https://woog.430520.xyz"
+        ]
+      }
+    },
+    {
+      "key": "ShuangXing",
+      "name": "双星┆4K",
+      "type": 3,
+      "api": "csp_ShuangXing",
       "searchable": 1,
       "quickSearch": 1,
-      "filterable": 1,
-      "timeout": 60
+      "changeable": 1,
+      "style": {
+        "type": "list",
+        "ratio": 1.433
+      }
     },
     {
-      "key": "即刻",
-      "name": "即刻｜4K网盘",
+      "key": "DianYingYunJi",
+      "name": "云集┆4K",
       "type": 3,
-      "api": "csp_Jike",
+      "api": "csp_DianYingYunJi",
       "searchable": 1,
-      "quickSearch": 0,
-      "filterable": 0,
-      "style": {
-        "type": "list"
-      },
-      "timeout": 60
+      "changeable": 1
     }
   ],
   "lives": [],
