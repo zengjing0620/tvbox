@@ -3,7 +3,7 @@
   "wallpaper": "http://127.0.0.1:9978/proxy?do=wallpaper",
   "logo": "https://modelscope-resouces.oss-cn-zhangjiakou.aliyuncs.com/avatar%2Ff5309172-1af6-4c4f-a1c5-a4773a1cc718.gif",
   "danmaku": "http://127.0.0.1:5266/danmu/webhtv?name={name}&episode={episode}",
-  "warningText": "温馨提示:\网盘接口长期更新维护，仅用于自用研究测试 \n切勿传播、贩卖！",
+  "warningText": "温馨提示:\n网盘接口长期更新维护，仅用于自用研究测试 \n切勿传播、贩卖！",
   "sites": [
     {
       "key": "Douban",
