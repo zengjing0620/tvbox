@@ -288,17 +288,6 @@
       "ext": "https://vip.wwgz.cn:5200"
     },
     {
-      "name": "自建┃4K",
-      "key": "AppV7Mtq",
-      "type": 3,
-      "api": "csp_AppV7Amns",
-      "jar": "https://gitee.com/zengjing0620/tvbox/raw/jar/aowu.png",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "ext": "AppV7Mtq"
-    },
-    {
       "name": "小柚┃影视",
       "key": "AppV7Xyz",
       "type": 3,
@@ -367,7 +356,7 @@
     },
     {
       "key": "荐片123",
-      "name": "荐片｜影视",
+      "name": "荐片┃影视",
       "type": 3,
       "jar": "https://gitee.com/zengjing0620/tvbox/raw/jar/ouge.jpg",
       "api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/荐片.js"
@@ -380,25 +369,102 @@
       "ext": "http://550.3vcn.work/2400.js"
     },
     {
-      "key": "橘汁",
-      "name": "橘汁｜4K线路",
+      "name": "橘汁┃4K",
+      "key": "Woshinidie",
       "type": 3,
-      "api": "csp_AppDrama",
-      "jar": "https://gh-proxy.com/raw.githubusercontent.com/IY-CPU/IY/main/spider.jar",
+      "jar": "https://nos.netease.com/vcloud-statistic/nrtc/35012678-318a-469d-866b-00e9d74468df.png;md5;528450abfa7bbee80d68034ae045a1f6",
+      "api": "csp_Woshinidie",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "Luck",
+      "name": "青禾┆4K",
+      "type": 3,
+      "api": "csp_Luck",
+      "jar": "./lib/moyu.jar",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": {
-        "appName": "橘汁",
-        "publicKey": "MIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCr8SzZhjYy+rsya1K09t8d2K50pWFoBkgUqMpKOiW+3IEVKd4eTdvg9RSOjQ82kypL6R9BnsmrS1V8s4PVDwjQbUtYhTPPC9Hz16qY7rpD6m0d2vr09/UpWQ5uOy9PR0QTrsioveZ+DIe9jc3C+zBCu/kZSY/R8stwJoiitki3gwIDAQAB",
-        "dataKey": "OW1WBLFZCLJ0WTNJQMRSZ2DYSGNBPT0=",
-        "dataIv": "OC1A06E197EF10CF3F6058CA7A803B5E",
-        "pkg": "com.mxj.wylcjbxyx",
-        "host": "",
-        "site": "https://123-1349250429.cos.ap-shanghai.myqcloud.com/app.txt",
-        "version": "3.0.2.4",
-        "decrypt": "1"
-      }//ts
+      "ext": "https://max.moyu666666.top/luck.php"
+    },
+    {
+      "key": "FourK",
+      "name": "望舒┆4K",
+      "type": 3,
+      "api": "csp_App88",
+      "jar": "./lib/moyu.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "AV3cDzESDsTIWJ1e0GZQUmOQKfNDMpFhWqSa4cvJKZlVZDKPOBzRbNq+YsDIeVJfxJIlcvy9/9MMJLQR9Yn4P+ABIUU4LXEL+WXhRFcPEDBpGlxkMDqSvKpFJvmPoKC/IA=="
+    },
+    {
+      "key": "hy",
+      "name": "棠梨┆4K",
+      "type": 3,
+      "api": "csp_App88",
+      "jar": "./lib/moyu.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "Ae8DpdkJGH5s9XIrvlLd8DvpiYdkSSaoIDmmvofda4Gpr9yX8k0a4w1wNmnu4CZ4Nnh03XkYIwooJ+psbf6P8ZY="
+    },
+    {
+      "key": "KaiFan",
+      "name": "开饭┆4K",
+      "type": 3,
+      "api": "csp_KaiFan",
+      "jar": "./lib/moyu.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "AfLGR2SW/7tjQA3K8Qgg5u7AG1NNWsCVAVxfMv/V44kP5aqzon5weT9IvX2w2KtBeMpAxc+Y0yRLN0eXf6oiuLw="
+    },
+    {
+      "key": "XieHui",
+      "name": "歇会┆4K",
+      "type": 3,
+      "api": "csp_XieHui",
+      "jar": "./lib/moyu.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "AWevGJ+A/nEjquOh7v58lbo8oaOgHdJkEu7/lzGApb2ngqWSO16XNPqrmqkozIxiLHvjDaaxs61fWZUIYBZBGgQ="
+    },
+    {
+      "key": "HuangYou",
+      "name": "晃悠┆4K",
+      "type": 3,
+      "api": "csp_HuangYou",
+      "jar": "./lib/moyu.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "AVVlrRajtr+i42Q1MBwsMRSoNuckBLnPEocZVkZik+88465w0JZsKWJodTFxYL+RSsAVU8X8lJ4M8E2Xfw0GLYA="
+    },
+    {
+      "key": "xiaozuo",
+      "name": "等风┆4K",
+      "type": 3,
+      "api": "csp_DengFeng",
+      "jar": "./lib/moyu.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "ARRavWPOi7W2Usqhe54R+NW2sQ6CCBOYajU9bIz/WVyF75mrlP6UsAbts+o//eKOpDWbngYFUGIJGTa56hr3Hk0="
+    },
+    {
+      "key": "咕噜",
+      "name": "咕噜｜4K",
+      "type": 3,
+      "api": "csp_Gulu",
+      "jar": "https://gh-proxy.com/raw.githubusercontent.com/IY-CPU/IY/main/spider.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+      //ts
     },
     {
       "key": "mtq",
@@ -436,28 +502,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
-    {
-      "key": "Luck",
-      "name": "青禾┆4K线路",
-      "type": 3,
-      "api": "csp_Luck",
-      "jar": "https://gitee.com/zengjing0620/tvbox/raw/jar/moyu.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://max.moyu666666.top/luck.php"
-    },
-    {
-      "key": "咕噜",
-      "name": "咕噜｜4K线路",
-      "type": 3,
-      "api": "csp_Gulu",
-      "jar": "https://gh-proxy.com/raw.githubusercontent.com/IY-CPU/IY/main/spider.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-      //ts
     },
 	  {
       "key": "藤藤",
