@@ -28,7 +28,7 @@
     },
     {
       "key": "Wogg",
-      "name": "玩偶┆4K",
+      "name": "玩偶┆4K网盘",
       "type": 3,
       "api": "csp_Wogg",
       "searchable": 1,
@@ -46,7 +46,7 @@
     },
     {
       "key": "Fishhuajuan",
-      "name": "花卷┆4K",
+      "name": "花卷┆4K网盘",
       "type": 3,
       "api": "csp_FishCloud",
       "searchable": 1,
@@ -59,7 +59,7 @@
     },
     {
       "key": "FishMuou",
-      "name": "木偶┆4K",
+      "name": "木偶┆4K网盘",
       "type": 3,
       "api": "csp_FishCloud",
       "searchable": 1,
@@ -73,7 +73,7 @@
     },
     {
       "key": "Libvio",
-      "name": "立播┆4K",
+      "name": "立播┆4K网盘",
       "type": 3,
       "api": "csp_Libvio",
       "searchable": 1,
@@ -89,7 +89,7 @@
     },
     {
       "key": "KZN",
-      "name": "指南┆4K",
+      "name": "指南┆4K网盘",
       "type": 3,
       "api": "csp_KZN",
       "searchable": 1,
@@ -97,7 +97,7 @@
     },
     {
       "key": "SeedHub",
-      "name": "Seed┆4K",
+      "name": "Seed┆4K网盘",
       "type": 3,
       "api": "csp_SeedHub",
       "searchable": 1,
@@ -111,7 +111,7 @@
     },
     {
       "key": "Yidong4K",
-      "name": "移动┆4K",
+      "name": "移动┆4K网盘",
       "type": 3,
       "api": "csp_Yidong4K",
       "searchable": 1,
@@ -121,7 +121,7 @@
     },
     {
       "key": "FishDuoduo",
-      "name": "多多┆4K",
+      "name": "多多┆4K网盘",
       "type": 3,
       "api": "csp_FishCloud",
       "searchable": 1,
@@ -135,7 +135,7 @@
     },
     {
       "key": "FishHuban",
-      "name": "虎斑┆4K",
+      "name": "虎斑┆4K网盘",
       "type": 3,
       "api": "csp_FishCloud",
       "searchable": 1,
@@ -148,7 +148,7 @@
     },
     {
       "key": "Fishshayang",
-      "name": "闪电┆4K",
+      "name": "闪电┆4K网盘",
       "type": 3,
       "api": "csp_FishCloud",
       "searchable": 1,
@@ -161,7 +161,7 @@
     },
     {
       "key": "Fishgege",
-      "name": "欧哥┆4K",
+      "name": "欧哥┆4K网盘",
       "type": 3,
       "api": "csp_FishCloud",
       "searchable": 1,
@@ -175,7 +175,7 @@
     },
     {
       "key": "ShuangXing",
-      "name": "双星┆4K",
+      "name": "双星┆4K网盘",
       "type": 3,
       "api": "csp_ShuangXing",
       "searchable": 1,
@@ -188,11 +188,139 @@
     },
     {
       "key": "DianYingYunJi",
-      "name": "云集┆4K",
+      "name": "云集┆4K网盘",
       "type": 3,
       "api": "csp_DianYingYunJi",
       "searchable": 1,
       "changeable": 1
+    },
+    {
+      "name": "橘汁┃4K影视",
+      "key": "Woshinidie",
+      "type": 3,
+      "jar": "https://nos.netease.com/vcloud-statistic/nrtc/35012678-318a-469d-866b-00e9d74468df.png;md5;528450abfa7bbee80d68034ae045a1f6",
+      "api": "csp_Woshinidie",
+      "searchable": 1,
+      "quickSearch": 1,
+      "changeable": 1
+    },
+    {
+      "key": "Luck",
+      "name": "青禾┆4K影视",
+      "type": 3,
+      "api": "csp_Luck",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://max.moyu666666.top/luck.php"
+    },
+    {
+      "key": "FourK",
+      "name": "望舒┆4K影视",
+      "type": 3,
+      "api": "csp_App88",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "AV3cDzESDsTIWJ1e0GZQUmOQKfNDMpFhWqSa4cvJKZlVZDKPOBzRbNq+YsDIeVJfxJIlcvy9/9MMJLQR9Yn4P+ABIUU4LXEL+WXhRFcPEDBpGlxkMDqSvKpFJvmPoKC/IA=="
+    },
+    {
+      "key": "hy",
+      "name": "棠梨┆4K影视",
+      "type": 3,
+      "api": "csp_App88",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "Ae8DpdkJGH5s9XIrvlLd8DvpiYdkSSaoIDmmvofda4Gpr9yX8k0a4w1wNmnu4CZ4Nnh03XkYIwooJ+psbf6P8ZY="
+    },
+    {
+      "key": "KaiFan",
+      "name": "开饭┆4K影视",
+      "type": 3,
+      "api": "csp_KaiFan",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "AfLGR2SW/7tjQA3K8Qgg5u7AG1NNWsCVAVxfMv/V44kP5aqzon5weT9IvX2w2KtBeMpAxc+Y0yRLN0eXf6oiuLw="
+    },
+    {
+      "key": "XieHui",
+      "name": "歇会┆4K影视",
+      "type": 3,
+      "api": "csp_XieHui",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "AWevGJ+A/nEjquOh7v58lbo8oaOgHdJkEu7/lzGApb2ngqWSO16XNPqrmqkozIxiLHvjDaaxs61fWZUIYBZBGgQ="
+    },
+    {
+      "key": "HuangYou",
+      "name": "晃悠┆4K影视",
+      "type": 3,
+      "api": "csp_HuangYou",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "AVVlrRajtr+i42Q1MBwsMRSoNuckBLnPEocZVkZik+88465w0JZsKWJodTFxYL+RSsAVU8X8lJ4M8E2Xfw0GLYA="
+    },
+    {
+      "key": "xiaozuo",
+      "name": "等风┆4K影视",
+      "type": 3,
+      "api": "csp_DengFeng",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "ARRavWPOi7W2Usqhe54R+NW2sQ6CCBOYajU9bIz/WVyF75mrlP6UsAbts+o//eKOpDWbngYFUGIJGTa56hr3Hk0="
+    },
+    {
+      "key": "咕噜",
+      "name": "咕噜｜4K影视",
+      "type": 3,
+      "api": "csp_Gulu",
+      "jar": "https://gh-proxy.com/raw.githubusercontent.com/IY-CPU/IY/main/spider.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+      //ts
+    },
+    {
+      "key": "mtq",
+      "name": "蒙太奇┃4K影视",
+      "type": 3,
+      "api": "csp_Mtq",
+	  "jar": "https://cac.opple.com/yc-media/getFile?id=88851410b7fd4d3db0e02fa9f7c3c46d#.png;md5;95e892b6b69c0dd5f9d264094db5b2b9",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": {
+        "hide_unplayable": false
+      }
+    },
+    {
+      "key": "mino",
+      "name": "MiNO┃4K影视",
+      "type": 3,
+      "api": "csp_MiNO",
+	  "jar": "https://gitee.com/zengjing0620/tvbox/raw/jar/xmxl.png",
+      "searchable": 1,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": {
+        "rotate_device": 1,
+        "auto_fallback": 1
+      }
+    },
+    {
+      "key": "dongpian",
+      "name": "懂片┃4K影视",
+      "type": 3,
+      "api": "csp_DongPianDi",
+	  "jar": "https://gitee.com/zengjing0620/tvbox/raw/jar/xmxl.png",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
     }
   ],
   "lives": [],
